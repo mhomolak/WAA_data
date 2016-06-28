@@ -12,6 +12,11 @@ const config = {
       index: '/index.html'
     }
   },
+  plugins: [
+    new webpack.ProvidePlugin({
+        d3: 'd3',
+    })
+  ],
   module: {
     loaders: [
       {

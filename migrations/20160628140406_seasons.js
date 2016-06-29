@@ -8,8 +8,8 @@ exports.up = function(knex, Promise) {
     table.decimal('team_war');
     table.integer('wins');
     table.integer('losses');
-    table.boolean('playoffs');
-    table.boolean('championship');
+    table.boolean('playoffs').defaultTo('false');
+    table.boolean('championship').defaultTo('false');
   })
 };
 

@@ -2,7 +2,7 @@
     "Rk": 1,
     "Tm ▴": "ANA",
     "Lg": "AL",
-    "G": 162,
+    "year": 1998,
     "W": 85,
     "L": 77,
     "W-L%": 0.525,
@@ -34,7 +34,7 @@
     "Rk": 2,
     "Tm ▴": "ARI",
     "Lg": "NL",
-    "G": 162,
+    "year": 1998,
     "W": 65,
     "L": 97,
     "W-L%": 0.401,
@@ -61,12 +61,12 @@
     "payroll": ,
     "team_war": ,
     "playoffs": ,
-    "championship": 
+    "championship":
 }, {
     "Rk": 3,
     "Tm ▴": "ATL",
     "Lg": "NL",
-    "G": 162,
+    "year": 1998,
     "W": 106,
     "L": 56,
     "W-L%": 0.654,
@@ -93,12 +93,12 @@
     "payroll": ,
     "team_war": ,
     "playoffs": ,
-    "championship": 
+    "championship":
 }, {
     "Rk": 4,
     "Tm ▴": "BAL",
     "Lg": "AL",
-    "G": 162,
+    "year": 1998,
     "W": 79,
     "L": 83,
     "W-L%": 0.488,
@@ -125,12 +125,12 @@
     "payroll": ,
     "team_war": ,
     "playoffs": ,
-    "championship": 
+    "championship":
 }, {
     "Rk": 5,
     "Tm ▴": "BOS",
     "Lg": "AL",
-    "G": 162,
+    "year": 1998,
     "W": 92,
     "L": 70,
     "W-L%": 0.568,
@@ -157,12 +157,12 @@
     "payroll": ,
     "team_war": ,
     "playoffs": ,
-    "championship": 
+    "championship":
 }, {
     "Rk": 6,
     "Tm ▴": "CHC",
     "Lg": "NL",
-    "G": 163,
+    "year": 1998,
     "W": 90,
     "L": 73,
     "W-L%": 0.552,
@@ -189,12 +189,12 @@
     "payroll": ,
     "team_war": ,
     "playoffs": ,
-    "championship": 
+    "championship":
 }, {
     "Rk": 7,
     "Tm ▴": "CHW",
     "Lg": "AL",
-    "G": 163,
+    "year": 1998,
     "W": 80,
     "L": 82,
     "W-L%": 0.494,
@@ -221,12 +221,12 @@
     "payroll": ,
     "team_war": ,
     "playoffs": ,
-    "championship": 
+    "championship":
 }, {
     "Rk": 8,
     "Tm ▴": "CIN",
     "Lg": "NL",
-    "G": 162,
+    "year": 1998,
     "W": 77,
     "L": 85,
     "W-L%": 0.475,
@@ -253,12 +253,12 @@
     "payroll": ,
     "team_war": ,
     "playoffs": ,
-    "championship": 
+    "championship":
 }, {
     "Rk": 9,
     "Tm ▴": "CLE",
     "Lg": "AL",
-    "G": 162,
+    "year": 1998,
     "W": 89,
     "L": 73,
     "W-L%": 0.549,
@@ -285,12 +285,12 @@
     "payroll": ,
     "team_war": ,
     "playoffs": ,
-    "championship": 
+    "championship":
 }, {
     "Rk": 10,
     "Tm ▴": "COL",
     "Lg": "NL",
-    "G": 162,
+    "year": 1998,
     "W": 77,
     "L": 85,
     "W-L%": 0.475,
@@ -317,12 +317,12 @@
     "payroll": ,
     "team_war": ,
     "playoffs": ,
-    "championship": 
+    "championship":
 }, {
     "Rk": 11,
     "Tm ▴": "DET",
     "Lg": "AL",
-    "G": 162,
+    "year": 1998,
     "W": 65,
     "L": 97,
     "W-L%": 0.401,
@@ -349,12 +349,12 @@
     "payroll": ,
     "team_war": ,
     "playoffs": ,
-    "championship": 
+    "championship":
 }, {
     "Rk": 12,
     "Tm ▴": "FLA",
     "Lg": "NL",
-    "G": 162,
+    "year": 1998,
     "W": 54,
     "L": 108,
     "W-L%": 0.333,
@@ -381,12 +381,12 @@
     "payroll": ,
     "team_war": ,
     "playoffs": ,
-    "championship": 
+    "championship":
 }, {
     "Rk": 13,
     "Tm ▴": "HOU",
     "Lg": "NL",
-    "G": 162,
+    "year": 1998,
     "W": 102,
     "L": 60,
     "W-L%": 0.63,
@@ -413,12 +413,12 @@
     "payroll": ,
     "team_war": ,
     "playoffs": ,
-    "championship": 
+    "championship":
 }, {
     "Rk": 14,
     "Tm ▴": "KCR",
     "Lg": "AL",
-    "G": 161,
+    "year": 1998,
     "W": 72,
     "L": 89,
     "W-L%": 0.447,
@@ -445,12 +445,12 @@
     "payroll": ,
     "team_war": ,
     "playoffs": ,
-    "championship": 
+    "championship":
 }, {
     "Rk": 15,
     "Tm ▴": "LAD",
     "Lg": "NL",
-    "G": 162,
+    "year": 1998,
     "W": 83,
     "L": 79,
     "W-L%": 0.512,
@@ -477,12 +477,12 @@
     "payroll": ,
     "team_war": ,
     "playoffs": ,
-    "championship": 
+    "championship":
 }, {
     "Rk": 16,
     "Tm ▴": "MIL",
     "Lg": "NL",
-    "G": 162,
+    "year": 1998,
     "W": 74,
     "L": 88,
     "W-L%": 0.457,
@@ -509,12 +509,12 @@
     "payroll": ,
     "team_war": ,
     "playoffs": ,
-    "championship": 
+    "championship":
 }, {
     "Rk": 17,
     "Tm ▴": "MIN",
     "Lg": "AL",
-    "G": 162,
+    "year": 1998,
     "W": 70,
     "L": 92,
     "W-L%": 0.432,
@@ -541,12 +541,12 @@
     "payroll": ,
     "team_war": ,
     "playoffs": ,
-    "championship": 
+    "championship":
 }, {
     "Rk": 18,
     "Tm ▴": "MON",
     "Lg": "NL",
-    "G": 162,
+    "year": 1998,
     "W": 65,
     "L": 97,
     "W-L%": 0.401,
@@ -573,12 +573,12 @@
     "payroll": ,
     "team_war": ,
     "playoffs": ,
-    "championship": 
+    "championship":
 }, {
     "Rk": 19,
     "Tm ▴": "NYM",
     "Lg": "NL",
-    "G": 162,
+    "year": 1998,
     "W": 88,
     "L": 74,
     "W-L%": 0.543,
@@ -605,12 +605,12 @@
     "payroll": ,
     "team_war": ,
     "playoffs": ,
-    "championship": 
+    "championship":
 }, {
     "Rk": 20,
     "Tm ▴": "NYY",
     "Lg": "AL",
-    "G": 162,
+    "year": 1998,
     "W": 114,
     "L": 48,
     "W-L%": 0.704,
@@ -637,12 +637,12 @@
     "payroll": ,
     "team_war": ,
     "playoffs": ,
-    "championship": 
+    "championship":
 }, {
     "Rk": 21,
     "Tm ▴": "OAK",
     "Lg": "AL",
-    "G": 162,
+    "year": 1998,
     "W": 74,
     "L": 88,
     "W-L%": 0.457,
@@ -669,12 +669,12 @@
     "payroll": ,
     "team_war": ,
     "playoffs": ,
-    "championship": 
+    "championship":
 }, {
     "Rk": 22,
     "Tm ▴": "PHI",
     "Lg": "NL",
-    "G": 162,
+    "year": 1998,
     "W": 75,
     "L": 87,
     "W-L%": 0.463,
@@ -701,12 +701,12 @@
     "payroll": ,
     "team_war": ,
     "playoffs": ,
-    "championship": 
+    "championship":
 }, {
     "Rk": 23,
     "Tm ▴": "PIT",
     "Lg": "NL",
-    "G": 163,
+    "year": 1998,
     "W": 69,
     "L": 93,
     "W-L%": 0.426,
@@ -733,12 +733,12 @@
     "payroll": ,
     "team_war": ,
     "playoffs": ,
-    "championship": 
+    "championship":
 }, {
     "Rk": 24,
     "Tm ▴": "SDP",
     "Lg": "NL",
-    "G": 162,
+    "year": 1998,
     "W": 98,
     "L": 64,
     "W-L%": 0.605,
@@ -765,12 +765,12 @@
     "payroll": ,
     "team_war": ,
     "playoffs": ,
-    "championship": 
+    "championship":
 }, {
     "Rk": 25,
     "Tm ▴": "SEA",
     "Lg": "AL",
-    "G": 161,
+    "year": 1998,
     "W": 76,
     "L": 85,
     "W-L%": 0.472,
@@ -797,12 +797,12 @@
     "payroll": ,
     "team_war": ,
     "playoffs": ,
-    "championship": 
+    "championship":
 }, {
     "Rk": 26,
     "Tm ▴": "SFG",
     "Lg": "NL",
-    "G": 163,
+    "year": 1998,
     "W": 89,
     "L": 74,
     "W-L%": 0.546,
@@ -829,12 +829,12 @@
     "payroll": ,
     "team_war": ,
     "playoffs": ,
-    "championship": 
+    "championship":
 }, {
     "Rk": 27,
     "Tm ▴": "STL",
     "Lg": "NL",
-    "G": 163,
+    "year": 1998,
     "W": 83,
     "L": 79,
     "W-L%": 0.512,
@@ -861,12 +861,12 @@
     "payroll": ,
     "team_war": ,
     "playoffs": ,
-    "championship": 
+    "championship":
 }, {
     "Rk": 28,
     "Tm ▴": "TBD",
     "Lg": "AL",
-    "G": 162,
+    "year": 1998,
     "W": 63,
     "L": 99,
     "W-L%": 0.389,
@@ -893,12 +893,12 @@
     "payroll": ,
     "team_war": ,
     "playoffs": ,
-    "championship": 
+    "championship":
 }, {
     "Rk": 29,
     "Tm ▴": "TEX",
     "Lg": "AL",
-    "G": 162,
+    "year": 1998,
     "W": 88,
     "L": 74,
     "W-L%": 0.543,
@@ -925,12 +925,12 @@
     "payroll": ,
     "team_war": ,
     "playoffs": ,
-    "championship": 
+    "championship":
 }, {
     "Rk": 30,
     "Tm ▴": "TOR",
     "Lg": "AL",
-    "G": 163,
+    "year": 1998,
     "W": 88,
     "L": 74,
     "W-L%": 0.543,
@@ -957,5 +957,5 @@
     "payroll": ,
     "team_war": ,
     "playoffs": ,
-    "championship": 
+    "championship":
 }]

@@ -1,8 +1,8 @@
-[{
+ [{
     "Rk": 1,
     "Tm ▴": "ANA",
     "Lg": "AL",
-    "G": 162,
+    "year": 1999,
     "W": 70,
     "L": 92,
     "W-L%": 0.432,
@@ -29,12 +29,12 @@
     "payroll": ,
     "team_war": ,
     "playoffs": ,
-    "championship": 
+    "championship":
 }, {
     "Rk": 2,
     "Tm ▴": "ARI",
     "Lg": "NL",
-    "G": 162,
+    "year": 1999,
     "W": 100,
     "L": 62,
     "W-L%": 0.617,
@@ -61,12 +61,12 @@
     "payroll": ,
     "team_war": ,
     "playoffs": ,
-    "championship": 
+    "championship":
 }, {
     "Rk": 3,
     "Tm ▴": "ATL",
     "Lg": "NL",
-    "G": 162,
+    "year": 1999,
     "W": 103,
     "L": 59,
     "W-L%": 0.636,
@@ -93,12 +93,12 @@
     "payroll": ,
     "team_war": ,
     "playoffs": ,
-    "championship": 
+    "championship":
 }, {
     "Rk": 4,
     "Tm ▴": "BAL",
     "Lg": "AL",
-    "G": 162,
+    "year": 1999,
     "W": 78,
     "L": 84,
     "W-L%": 0.481,
@@ -125,12 +125,12 @@
     "payroll": ,
     "team_war": ,
     "playoffs": ,
-    "championship": 
+    "championship":
 }, {
     "Rk": 5,
     "Tm ▴": "BOS",
     "Lg": "AL",
-    "G": 162,
+    "year": 1999,
     "W": 94,
     "L": 68,
     "W-L%": 0.58,
@@ -157,12 +157,12 @@
     "payroll": ,
     "team_war": ,
     "playoffs": ,
-    "championship": 
+    "championship":
 }, {
     "Rk": 6,
     "Tm ▴": "CHC",
     "Lg": "NL",
-    "G": 162,
+    "year": 1999,
     "W": 67,
     "L": 95,
     "W-L%": 0.414,
@@ -189,12 +189,12 @@
     "payroll": ,
     "team_war": ,
     "playoffs": ,
-    "championship": 
+    "championship":
 }, {
     "Rk": 7,
     "Tm ▴": "CHW",
     "Lg": "AL",
-    "G": 162,
+    "year": 1999,
     "W": 75,
     "L": 86,
     "W-L%": 0.466,
@@ -221,12 +221,12 @@
     "payroll": ,
     "team_war": ,
     "playoffs": ,
-    "championship": 
+    "championship":
 }, {
     "Rk": 8,
     "Tm ▴": "CIN",
     "Lg": "NL",
-    "G": 163,
+    "year": 1999,
     "W": 96,
     "L": 67,
     "W-L%": 0.589,
@@ -253,12 +253,12 @@
     "payroll": ,
     "team_war": ,
     "playoffs": ,
-    "championship": 
+    "championship":
 }, {
     "Rk": 9,
     "Tm ▴": "CLE",
     "Lg": "AL",
-    "G": 162,
+    "year": 1999,
     "W": 97,
     "L": 65,
     "W-L%": 0.599,
@@ -285,12 +285,12 @@
     "payroll": ,
     "team_war": ,
     "playoffs": ,
-    "championship": 
+    "championship":
 }, {
     "Rk": 10,
     "Tm ▴": "COL",
     "Lg": "NL",
-    "G": 162,
+    "year": 1999,
     "W": 72,
     "L": 90,
     "W-L%": 0.444,
@@ -317,12 +317,12 @@
     "payroll": ,
     "team_war": ,
     "playoffs": ,
-    "championship": 
+    "championship":
 }, {
     "Rk": 11,
     "Tm ▴": "DET",
     "Lg": "AL",
-    "G": 161,
+    "year": 1999,
     "W": 69,
     "L": 92,
     "W-L%": 0.429,
@@ -349,12 +349,12 @@
     "payroll": ,
     "team_war": ,
     "playoffs": ,
-    "championship": 
+    "championship":
 }, {
     "Rk": 12,
     "Tm ▴": "FLA",
     "Lg": "NL",
-    "G": 162,
+    "year": 1999,
     "W": 64,
     "L": 98,
     "W-L%": 0.395,
@@ -381,12 +381,12 @@
     "payroll": ,
     "team_war": ,
     "playoffs": ,
-    "championship": 
+    "championship":
 }, {
     "Rk": 13,
     "Tm ▴": "HOU",
     "Lg": "NL",
-    "G": 162,
+    "year": 1999,
     "W": 97,
     "L": 65,
     "W-L%": 0.599,
@@ -413,12 +413,12 @@
     "payroll": ,
     "team_war": ,
     "playoffs": ,
-    "championship": 
+    "championship":
 }, {
     "Rk": 14,
     "Tm ▴": "KCR",
     "Lg": "AL",
-    "G": 161,
+    "year": 1999,
     "W": 64,
     "L": 97,
     "W-L%": 0.398,
@@ -445,12 +445,12 @@
     "payroll": ,
     "team_war": ,
     "playoffs": ,
-    "championship": 
+    "championship":
 }, {
     "Rk": 15,
     "Tm ▴": "LAD",
     "Lg": "NL",
-    "G": 162,
+    "year": 1999,
     "W": 77,
     "L": 85,
     "W-L%": 0.475,
@@ -477,12 +477,12 @@
     "payroll": ,
     "team_war": ,
     "playoffs": ,
-    "championship": 
+    "championship":
 }, {
     "Rk": 16,
     "Tm ▴": "MIL",
     "Lg": "NL",
-    "G": 161,
+    "year": 1999,
     "W": 74,
     "L": 87,
     "W-L%": 0.46,
@@ -509,12 +509,12 @@
     "payroll": ,
     "team_war": ,
     "playoffs": ,
-    "championship": 
+    "championship":
 }, {
     "Rk": 17,
     "Tm ▴": "MIN",
     "Lg": "AL",
-    "G": 161,
+    "year": 1999,
     "W": 63,
     "L": 97,
     "W-L%": 0.394,
@@ -541,12 +541,12 @@
     "payroll": ,
     "team_war": ,
     "playoffs": ,
-    "championship": 
+    "championship":
 }, {
     "Rk": 18,
     "Tm ▴": "MON",
     "Lg": "NL",
-    "G": 162,
+    "year": 1999,
     "W": 68,
     "L": 94,
     "W-L%": 0.42,
@@ -573,12 +573,12 @@
     "payroll": ,
     "team_war": ,
     "playoffs": ,
-    "championship": 
+    "championship":
 }, {
     "Rk": 19,
     "Tm ▴": "NYM",
     "Lg": "NL",
-    "G": 163,
+    "year": 1999,
     "W": 97,
     "L": 66,
     "W-L%": 0.595,
@@ -605,12 +605,12 @@
     "payroll": ,
     "team_war": ,
     "playoffs": ,
-    "championship": 
+    "championship":
 }, {
     "Rk": 20,
     "Tm ▴": "NYY",
     "Lg": "AL",
-    "G": 162,
+    "year": 1999,
     "W": 98,
     "L": 64,
     "W-L%": 0.605,
@@ -637,12 +637,12 @@
     "payroll": ,
     "team_war": ,
     "playoffs": ,
-    "championship": 
+    "championship":
 }, {
     "Rk": 21,
     "Tm ▴": "OAK",
     "Lg": "AL",
-    "G": 162,
+    "year": 1999,
     "W": 87,
     "L": 75,
     "W-L%": 0.537,
@@ -669,12 +669,12 @@
     "payroll": ,
     "team_war": ,
     "playoffs": ,
-    "championship": 
+    "championship":
 }, {
     "Rk": 22,
     "Tm ▴": "PHI",
     "Lg": "NL",
-    "G": 162,
+    "year": 1999,
     "W": 77,
     "L": 85,
     "W-L%": 0.475,
@@ -701,12 +701,12 @@
     "payroll": ,
     "team_war": ,
     "playoffs": ,
-    "championship": 
+    "championship":
 }, {
     "Rk": 23,
     "Tm ▴": "PIT",
     "Lg": "NL",
-    "G": 161,
+    "year": 1999,
     "W": 78,
     "L": 83,
     "W-L%": 0.484,
@@ -733,12 +733,12 @@
     "payroll": ,
     "team_war": ,
     "playoffs": ,
-    "championship": 
+    "championship":
 }, {
     "Rk": 24,
     "Tm ▴": "SDP",
     "Lg": "NL",
-    "G": 162,
+    "year": 1999,
     "W": 74,
     "L": 88,
     "W-L%": 0.457,
@@ -765,12 +765,12 @@
     "payroll": ,
     "team_war": ,
     "playoffs": ,
-    "championship": 
+    "championship":
 }, {
     "Rk": 25,
     "Tm ▴": "SEA",
     "Lg": "AL",
-    "G": 162,
+    "year": 1999,
     "W": 79,
     "L": 83,
     "W-L%": 0.488,
@@ -797,12 +797,12 @@
     "payroll": ,
     "team_war": ,
     "playoffs": ,
-    "championship": 
+    "championship":
 }, {
     "Rk": 26,
     "Tm ▴": "SFG",
     "Lg": "NL",
-    "G": 162,
+    "year": 1999,
     "W": 86,
     "L": 76,
     "W-L%": 0.531,
@@ -829,12 +829,12 @@
     "payroll": ,
     "team_war": ,
     "playoffs": ,
-    "championship": 
+    "championship":
 }, {
     "Rk": 27,
     "Tm ▴": "STL",
     "Lg": "NL",
-    "G": 161,
+    "year": 1999,
     "W": 75,
     "L": 86,
     "W-L%": 0.466,
@@ -861,12 +861,12 @@
     "payroll": ,
     "team_war": ,
     "playoffs": ,
-    "championship": 
+    "championship":
 }, {
     "Rk": 28,
     "Tm ▴": "TBD",
     "Lg": "AL",
-    "G": 162,
+    "year": 1999,
     "W": 69,
     "L": 93,
     "W-L%": 0.426,
@@ -893,12 +893,12 @@
     "payroll": ,
     "team_war": ,
     "playoffs": ,
-    "championship": 
+    "championship":
 }, {
     "Rk": 29,
     "Tm ▴": "TEX",
     "Lg": "AL",
-    "G": 162,
+    "year": 1999,
     "W": 95,
     "L": 67,
     "W-L%": 0.586,
@@ -925,12 +925,12 @@
     "payroll": ,
     "team_war": ,
     "playoffs": ,
-    "championship": 
+    "championship":
 }, {
     "Rk": 30,
     "Tm ▴": "TOR",
     "Lg": "AL",
-    "G": 162,
+    "year": 1999,
     "W": 84,
     "L": 78,
     "W-L%": 0.518,
@@ -957,5 +957,5 @@
     "payroll": ,
     "team_war": ,
     "playoffs": ,
-    "championship": 
+    "championship":
 }]

@@ -2,7 +2,7 @@
     "Rk": 1,
     "Tm ▴": "ARI",
     "Lg": "NL",
-    "G": 162,
+    "year": 2008,
     "W": 82,
     "L": 80,
     "W-L%": 0.506,
@@ -29,12 +29,12 @@
     "payroll": ,
     "team_war": ,
     "playoffs": ,
-    "championship": 
+    "championship":
 }, {
     "Rk": 2,
     "Tm ▴": "ATL",
     "Lg": "NL",
-    "G": 162,
+    "year": 2008,
     "W": 72,
     "L": 90,
     "W-L%": 0.444,
@@ -61,12 +61,12 @@
     "payroll": ,
     "team_war": ,
     "playoffs": ,
-    "championship": 
+    "championship":
 }, {
     "Rk": 3,
     "Tm ▴": "BAL",
     "Lg": "AL",
-    "G": 161,
+    "year": 2008,
     "W": 68,
     "L": 93,
     "W-L%": 0.422,
@@ -93,12 +93,12 @@
     "payroll": ,
     "team_war": ,
     "playoffs": ,
-    "championship": 
+    "championship":
 }, {
     "Rk": 4,
     "Tm ▴": "BOS",
     "Lg": "AL",
-    "G": 162,
+    "year": 2008,
     "W": 95,
     "L": 67,
     "W-L%": 0.586,
@@ -125,12 +125,12 @@
     "payroll": ,
     "team_war": ,
     "playoffs": ,
-    "championship": 
+    "championship":
 }, {
     "Rk": 5,
     "Tm ▴": "CHC",
     "Lg": "NL",
-    "G": 161,
+    "year": 2008,
     "W": 97,
     "L": 64,
     "W-L%": 0.603,
@@ -157,12 +157,12 @@
     "payroll": ,
     "team_war": ,
     "playoffs": ,
-    "championship": 
+    "championship":
 }, {
     "Rk": 6,
     "Tm ▴": "CHW",
     "Lg": "AL",
-    "G": 163,
+    "year": 2008,
     "W": 89,
     "L": 74,
     "W-L%": 0.546,
@@ -189,12 +189,12 @@
     "payroll": ,
     "team_war": ,
     "playoffs": ,
-    "championship": 
+    "championship":
 }, {
     "Rk": 7,
     "Tm ▴": "CIN",
     "Lg": "NL",
-    "G": 162,
+    "year": 2008,
     "W": 74,
     "L": 88,
     "W-L%": 0.457,
@@ -221,12 +221,12 @@
     "payroll": ,
     "team_war": ,
     "playoffs": ,
-    "championship": 
+    "championship":
 }, {
     "Rk": 8,
     "Tm ▴": "CLE",
     "Lg": "AL",
-    "G": 162,
+    "year": 2008,
     "W": 81,
     "L": 81,
     "W-L%": 0.5,
@@ -253,12 +253,12 @@
     "payroll": ,
     "team_war": ,
     "playoffs": ,
-    "championship": 
+    "championship":
 }, {
     "Rk": 9,
     "Tm ▴": "COL",
     "Lg": "NL",
-    "G": 162,
+    "year": 2008,
     "W": 74,
     "L": 88,
     "W-L%": 0.457,
@@ -285,12 +285,12 @@
     "payroll": ,
     "team_war": ,
     "playoffs": ,
-    "championship": 
+    "championship":
 }, {
     "Rk": 10,
     "Tm ▴": "DET",
     "Lg": "AL",
-    "G": 162,
+    "year": 2008,
     "W": 74,
     "L": 88,
     "W-L%": 0.457,
@@ -317,12 +317,12 @@
     "payroll": ,
     "team_war": ,
     "playoffs": ,
-    "championship": 
+    "championship":
 }, {
     "Rk": 11,
     "Tm ▴": "FLA",
     "Lg": "NL",
-    "G": 161,
+    "year": 2008,
     "W": 84,
     "L": 77,
     "W-L%": 0.522,
@@ -349,12 +349,12 @@
     "payroll": ,
     "team_war": ,
     "playoffs": ,
-    "championship": 
+    "championship":
 }, {
     "Rk": 12,
     "Tm ▴": "HOU",
     "Lg": "NL",
-    "G": 161,
+    "year": 2008,
     "W": 86,
     "L": 75,
     "W-L%": 0.534,
@@ -381,12 +381,12 @@
     "payroll": ,
     "team_war": ,
     "playoffs": ,
-    "championship": 
+    "championship":
 }, {
     "Rk": 13,
     "Tm ▴": "KCR",
     "Lg": "AL",
-    "G": 162,
+    "year": 2008,
     "W": 75,
     "L": 87,
     "W-L%": 0.463,
@@ -413,12 +413,12 @@
     "payroll": ,
     "team_war": ,
     "playoffs": ,
-    "championship": 
+    "championship":
 }, {
     "Rk": 14,
     "Tm ▴": "LAA",
     "Lg": "AL",
-    "G": 162,
+    "year": 2008,
     "W": 100,
     "L": 62,
     "W-L%": 0.617,
@@ -445,12 +445,12 @@
     "payroll": ,
     "team_war": ,
     "playoffs": ,
-    "championship": 
+    "championship":
 }, {
     "Rk": 15,
     "Tm ▴": "LAD",
     "Lg": "NL",
-    "G": 162,
+    "year": 2008,
     "W": 84,
     "L": 78,
     "W-L%": 0.518,
@@ -477,12 +477,12 @@
     "payroll": ,
     "team_war": ,
     "playoffs": ,
-    "championship": 
+    "championship":
 }, {
     "Rk": 16,
     "Tm ▴": "MIL",
     "Lg": "NL",
-    "G": 162,
+    "year": 2008,
     "W": 90,
     "L": 72,
     "W-L%": 0.556,
@@ -509,12 +509,12 @@
     "payroll": ,
     "team_war": ,
     "playoffs": ,
-    "championship": 
+    "championship":
 }, {
     "Rk": 17,
     "Tm ▴": "MIN",
     "Lg": "AL",
-    "G": 163,
+    "year": 2008,
     "W": 88,
     "L": 75,
     "W-L%": 0.54,
@@ -541,12 +541,12 @@
     "payroll": ,
     "team_war": ,
     "playoffs": ,
-    "championship": 
+    "championship":
 }, {
     "Rk": 18,
     "Tm ▴": "NYM",
     "Lg": "NL",
-    "G": 162,
+    "year": 2008,
     "W": 89,
     "L": 73,
     "W-L%": 0.549,
@@ -573,12 +573,12 @@
     "payroll": ,
     "team_war": ,
     "playoffs": ,
-    "championship": 
+    "championship":
 }, {
     "Rk": 19,
     "Tm ▴": "NYY",
     "Lg": "AL",
-    "G": 162,
+    "year": 2008,
     "W": 89,
     "L": 73,
     "W-L%": 0.549,
@@ -605,12 +605,12 @@
     "payroll": ,
     "team_war": ,
     "playoffs": ,
-    "championship": 
+    "championship":
 }, {
     "Rk": 20,
     "Tm ▴": "OAK",
     "Lg": "AL",
-    "G": 161,
+    "year": 2008,
     "W": 75,
     "L": 86,
     "W-L%": 0.466,
@@ -637,12 +637,12 @@
     "payroll": ,
     "team_war": ,
     "playoffs": ,
-    "championship": 
+    "championship":
 }, {
     "Rk": 21,
     "Tm ▴": "PHI",
     "Lg": "NL",
-    "G": 162,
+    "year": 2008,
     "W": 92,
     "L": 70,
     "W-L%": 0.568,
@@ -669,12 +669,12 @@
     "payroll": ,
     "team_war": ,
     "playoffs": ,
-    "championship": 
+    "championship":
 }, {
     "Rk": 22,
     "Tm ▴": "PIT",
     "Lg": "NL",
-    "G": 162,
+    "year": 2008,
     "W": 67,
     "L": 95,
     "W-L%": 0.414,
@@ -701,12 +701,12 @@
     "payroll": ,
     "team_war": ,
     "playoffs": ,
-    "championship": 
+    "championship":
 }, {
     "Rk": 23,
     "Tm ▴": "SDP",
     "Lg": "NL",
-    "G": 162,
+    "year": 2008,
     "W": 63,
     "L": 99,
     "W-L%": 0.389,
@@ -733,12 +733,12 @@
     "payroll": ,
     "team_war": ,
     "playoffs": ,
-    "championship": 
+    "championship":
 }, {
     "Rk": 24,
     "Tm ▴": "SEA",
     "Lg": "AL",
-    "G": 162,
+    "year": 2008,
     "W": 61,
     "L": 101,
     "W-L%": 0.377,
@@ -765,12 +765,12 @@
     "payroll": ,
     "team_war": ,
     "playoffs": ,
-    "championship": 
+    "championship":
 }, {
     "Rk": 25,
     "Tm ▴": "SFG",
     "Lg": "NL",
-    "G": 162,
+    "year": 2008,
     "W": 72,
     "L": 90,
     "W-L%": 0.444,
@@ -797,12 +797,12 @@
     "payroll": ,
     "team_war": ,
     "playoffs": ,
-    "championship": 
+    "championship":
 }, {
     "Rk": 26,
     "Tm ▴": "STL",
     "Lg": "NL",
-    "G": 162,
+    "year": 2008,
     "W": 86,
     "L": 76,
     "W-L%": 0.531,
@@ -829,12 +829,12 @@
     "payroll": ,
     "team_war": ,
     "playoffs": ,
-    "championship": 
+    "championship":
 }, {
     "Rk": 27,
     "Tm ▴": "TBR",
     "Lg": "AL",
-    "G": 162,
+    "year": 2008,
     "W": 97,
     "L": 65,
     "W-L%": 0.599,
@@ -861,12 +861,12 @@
     "payroll": ,
     "team_war": ,
     "playoffs": ,
-    "championship": 
+    "championship":
 }, {
     "Rk": 28,
     "Tm ▴": "TEX",
     "Lg": "AL",
-    "G": 162,
+    "year": 2008,
     "W": 79,
     "L": 83,
     "W-L%": 0.488,
@@ -893,12 +893,12 @@
     "payroll": ,
     "team_war": ,
     "playoffs": ,
-    "championship": 
+    "championship":
 }, {
     "Rk": 29,
     "Tm ▴": "TOR",
     "Lg": "AL",
-    "G": 162,
+    "year": 2008,
     "W": 86,
     "L": 76,
     "W-L%": 0.531,
@@ -925,12 +925,12 @@
     "payroll": ,
     "team_war": ,
     "playoffs": ,
-    "championship": 
+    "championship":
 }, {
     "Rk": 30,
     "Tm ▴": "WSN",
     "Lg": "NL",
-    "G": 161,
+    "year": 2008,
     "W": 59,
     "L": 102,
     "W-L%": 0.366,
@@ -957,5 +957,5 @@
     "payroll": ,
     "team_war": ,
     "playoffs": ,
-    "championship": 
+    "championship":
 }]

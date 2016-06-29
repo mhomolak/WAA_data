@@ -1,6 +1,6 @@
 [{
     "Rk": 1,
-    "Tm ▴": "ARI",
+    "team_name": "ARI",
     "Lg": "NL",
     "year": 2007,
     "W": 90,
@@ -28,11 +28,11 @@
     },
     "payroll": ,
     "team_war": ,
-    "playoffs": ,
+    "playoffs": true,
     "championship":
 }, {
     "Rk": 2,
-    "Tm ▴": "ATL",
+    "team_name": "ATL",
     "Lg": "NL",
     "year": 2007,
     "W": 84,
@@ -64,7 +64,7 @@
     "championship":
 }, {
     "Rk": 3,
-    "Tm ▴": "BAL",
+    "team_name": "BAL",
     "Lg": "AL",
     "year": 2007,
     "W": 69,
@@ -96,7 +96,7 @@
     "championship":
 }, {
     "Rk": 4,
-    "Tm ▴": "BOS",
+    "team_name": "BOS",
     "Lg": "AL",
     "year": 2007,
     "W": 96,
@@ -124,11 +124,11 @@
     },
     "payroll": ,
     "team_war": ,
-    "playoffs": ,
-    "championship":
+    "playoffs": true,
+    "championship": true
 }, {
     "Rk": 5,
-    "Tm ▴": "CHC",
+    "team_name": "CHC",
     "Lg": "NL",
     "year": 2007,
     "W": 85,
@@ -156,11 +156,11 @@
     },
     "payroll": ,
     "team_war": ,
-    "playoffs": ,
+    "playoffs": true,
     "championship":
 }, {
     "Rk": 6,
-    "Tm ▴": "CHW",
+    "team_name": "CHW",
     "Lg": "AL",
     "year": 2007,
     "W": 72,
@@ -192,7 +192,7 @@
     "championship":
 }, {
     "Rk": 7,
-    "Tm ▴": "CIN",
+    "team_name": "CIN",
     "Lg": "NL",
     "year": 2007,
     "W": 72,
@@ -224,7 +224,7 @@
     "championship":
 }, {
     "Rk": 8,
-    "Tm ▴": "CLE",
+    "team_name": "CLE",
     "Lg": "AL",
     "year": 2007,
     "W": 96,
@@ -252,11 +252,11 @@
     },
     "payroll": ,
     "team_war": ,
-    "playoffs": ,
+    "playoffs": true,
     "championship":
 }, {
     "Rk": 9,
-    "Tm ▴": "COL",
+    "team_name": "COL",
     "Lg": "NL",
     "year": 2007,
     "W": 90,
@@ -284,11 +284,11 @@
     },
     "payroll": ,
     "team_war": ,
-    "playoffs": ,
+    "playoffs": true,
     "championship":
 }, {
     "Rk": 10,
-    "Tm ▴": "DET",
+    "team_name": "DET",
     "Lg": "AL",
     "year": 2007,
     "W": 88,
@@ -320,7 +320,7 @@
     "championship":
 }, {
     "Rk": 11,
-    "Tm ▴": "FLA",
+    "team_name": "FLA",
     "Lg": "NL",
     "year": 2007,
     "W": 71,
@@ -352,7 +352,7 @@
     "championship":
 }, {
     "Rk": 12,
-    "Tm ▴": "HOU",
+    "team_name": "HOU",
     "Lg": "NL",
     "year": 2007,
     "W": 73,
@@ -384,7 +384,7 @@
     "championship":
 }, {
     "Rk": 13,
-    "Tm ▴": "KCR",
+    "team_name": "KCR",
     "Lg": "AL",
     "year": 2007,
     "W": 69,
@@ -416,7 +416,7 @@
     "championship":
 }, {
     "Rk": 14,
-    "Tm ▴": "LAA",
+    "team_name": "LAA",
     "Lg": "AL",
     "year": 2007,
     "W": 94,
@@ -444,11 +444,11 @@
     },
     "payroll": ,
     "team_war": ,
-    "playoffs": ,
+    "playoffs": true,
     "championship":
 }, {
     "Rk": 15,
-    "Tm ▴": "LAD",
+    "team_name": "LAD",
     "Lg": "NL",
     "year": 2007,
     "W": 82,
@@ -480,7 +480,7 @@
     "championship":
 }, {
     "Rk": 16,
-    "Tm ▴": "MIL",
+    "team_name": "MIL",
     "Lg": "NL",
     "year": 2007,
     "W": 83,
@@ -512,7 +512,7 @@
     "championship":
 }, {
     "Rk": 17,
-    "Tm ▴": "MIN",
+    "team_name": "MIN",
     "Lg": "AL",
     "year": 2007,
     "W": 79,
@@ -544,7 +544,7 @@
     "championship":
 }, {
     "Rk": 18,
-    "Tm ▴": "NYM",
+    "team_name": "NYM",
     "Lg": "NL",
     "year": 2007,
     "W": 88,
@@ -576,7 +576,7 @@
     "championship":
 }, {
     "Rk": 19,
-    "Tm ▴": "NYY",
+    "team_name": "NYY",
     "Lg": "AL",
     "year": 2007,
     "W": 94,
@@ -604,11 +604,11 @@
     },
     "payroll": ,
     "team_war": ,
-    "playoffs": ,
+    "playoffs": true,
     "championship":
 }, {
     "Rk": 20,
-    "Tm ▴": "OAK",
+    "team_name": "OAK",
     "Lg": "AL",
     "year": 2007,
     "W": 76,
@@ -640,7 +640,7 @@
     "championship":
 }, {
     "Rk": 21,
-    "Tm ▴": "PHI",
+    "team_name": "PHI",
     "Lg": "NL",
     "year": 2007,
     "W": 89,
@@ -668,11 +668,11 @@
     },
     "payroll": ,
     "team_war": ,
-    "playoffs": ,
+    "playoffs": true,
     "championship":
 }, {
     "Rk": 22,
-    "Tm ▴": "PIT",
+    "team_name": "PIT",
     "Lg": "NL",
     "year": 2007,
     "W": 68,
@@ -704,7 +704,7 @@
     "championship":
 }, {
     "Rk": 23,
-    "Tm ▴": "SDP",
+    "team_name": "SDP",
     "Lg": "NL",
     "year": 2007,
     "W": 89,
@@ -736,7 +736,7 @@
     "championship":
 }, {
     "Rk": 24,
-    "Tm ▴": "SEA",
+    "team_name": "SEA",
     "Lg": "AL",
     "year": 2007,
     "W": 88,
@@ -768,7 +768,7 @@
     "championship":
 }, {
     "Rk": 25,
-    "Tm ▴": "SFG",
+    "team_name": "SFG",
     "Lg": "NL",
     "year": 2007,
     "W": 71,
@@ -800,7 +800,7 @@
     "championship":
 }, {
     "Rk": 26,
-    "Tm ▴": "STL",
+    "team_name": "STL",
     "Lg": "NL",
     "year": 2007,
     "W": 78,
@@ -832,7 +832,7 @@
     "championship":
 }, {
     "Rk": 27,
-    "Tm ▴": "TBD",
+    "team_name": "TBD",
     "Lg": "AL",
     "year": 2007,
     "W": 66,
@@ -864,7 +864,7 @@
     "championship":
 }, {
     "Rk": 28,
-    "Tm ▴": "TEX",
+    "team_name": "TEX",
     "Lg": "AL",
     "year": 2007,
     "W": 75,
@@ -896,7 +896,7 @@
     "championship":
 }, {
     "Rk": 29,
-    "Tm ▴": "TOR",
+    "team_name": "TOR",
     "Lg": "AL",
     "year": 2007,
     "W": 83,
@@ -928,7 +928,7 @@
     "championship":
 }, {
     "Rk": 30,
-    "Tm ▴": "WSN",
+    "team_name": "WSN",
     "Lg": "NL",
     "year": 2007,
     "W": 73,

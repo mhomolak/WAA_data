@@ -25,7 +25,11 @@
     },
     "<": {
         "500": "29-27"
-    }
+    },
+    "payroll": ,
+    "team_war": ,
+    "playoffs": ,
+    "championship": 
 }, {
     "Rk": 2,
     "Tm ▴": "ARI",
@@ -53,7 +57,11 @@
     },
     "<": {
         "500": "41-30"
-    }
+    },
+    "payroll": ,
+    "team_war": ,
+    "playoffs": ,
+    "championship": 
 }, {
     "Rk": 3,
     "Tm ▴": "ATL",
@@ -81,7 +89,11 @@
     },
     "<": {
         "500": "44-18"
-    }
+    },
+    "payroll": ,
+    "team_war": ,
+    "playoffs": ,
+    "championship": 
 }, {
     "Rk": 4,
     "Tm ▴": "BAL",
@@ -109,7 +121,11 @@
     },
     "<": {
         "500": "31-21"
-    }
+    },
+    "payroll": ,
+    "team_war": ,
+    "playoffs": ,
+    "championship": 
 }, {
     "Rk": 5,
     "Tm ▴": "BOS",
@@ -137,7 +153,11 @@
     },
     "<": {
         "500": "49-28"
-    }
+    },
+    "payroll": ,
+    "team_war": ,
+    "playoffs": ,
+    "championship": 
 }, {
     "Rk": 6,
     "Tm ▴": "CHC",
@@ -165,7 +185,11 @@
     },
     "<": {
         "500": "46-29"
-    }
+    },
+    "payroll": ,
+    "team_war": ,
+    "playoffs": ,
+    "championship": 
 }, {
     "Rk": 7,
     "Tm ▴": "CHW",
@@ -193,7 +217,11 @@
     },
     "<": {
         "500": "38-29"
-    }
+    },
+    "payroll": ,
+    "team_war": ,
+    "playoffs": ,
+    "championship": 
 }, {
     "Rk": 8,
     "Tm ▴": "CIN",
@@ -221,7 +249,11 @@
     },
     "<": {
         "500": "26-32"
-    }
+    },
+    "payroll": ,
+    "team_war": ,
+    "playoffs": ,
+    "championship": 
 }, {
     "Rk": 9,
     "Tm ▴": "CLE",
@@ -249,7 +281,11 @@
     },
     "<": {
         "500": "32-30"
-    }
+    },
+    "payroll": ,
+    "team_war": ,
+    "playoffs": ,
+    "championship": 
 }, {
     "Rk": 10,
     "Tm ▴": "COL",
@@ -277,7 +313,11 @@
     },
     "<": {
         "500": "31-25"
-    }
+    },
+    "payroll": ,
+    "team_war": ,
+    "playoffs": ,
+    "championship": 
 }, {
     "Rk": 11,
     "Tm ▴": "DET",
@@ -305,7 +345,11 @@
     },
     "<": {
         "500": "18-36"
-    }
+    },
+    "payroll": ,
+    "team_war": ,
+    "playoffs": ,
+    "championship": 
 }, {
     "Rk": 12,
     "Tm ▴": "FLA",
@@ -333,7 +377,11 @@
     },
     "<": {
         "500": "38-23"
-    }
+    },
+    "payroll": ,
+    "team_war": ,
+    "playoffs": ,
+    "championship": 
 }, {
     "Rk": 13,
     "Tm ▴": "HOU",
@@ -361,7 +409,11 @@
     },
     "<": {
         "500": "50-30"
-    }
+    },
+    "payroll": ,
+    "team_war": ,
+    "playoffs": ,
+    "championship": 
 }, {
     "Rk": 14,
     "Tm ▴": "KCR",
@@ -389,7 +441,11 @@
     },
     "<": {
         "500": "47-26"
-    }
+    },
+    "payroll": ,
+    "team_war": ,
+    "playoffs": ,
+    "championship": 
 }, {
     "Rk": 15,
     "Tm ▴": "LAD",
@@ -417,7 +473,11 @@
     },
     "<": {
         "500": "44-30"
-    }
+    },
+    "payroll": ,
+    "team_war": ,
+    "playoffs": ,
+    "championship": 
 }, {
     "Rk": 16,
     "Tm ▴": "MIL",
@@ -445,7 +505,11 @@
     },
     "<": {
         "500": "33-26"
-    }
+    },
+    "payroll": ,
+    "team_war": ,
+    "playoffs": ,
+    "championship": 
 }, {
     "Rk": 17,
     "Tm ▴": "MIN",
@@ -473,7 +537,11 @@
     },
     "<": {
         "500": "51-30"
-    }
+    },
+    "payroll": ,
+    "team_war": ,
+    "playoffs": ,
+    "championship": 
 }, {
     "Rk": 18,
     "Tm ▴": "MON",
@@ -501,7 +569,11 @@
     },
     "<": {
         "500": "39-17"
-    }
+    },
+    "payroll": ,
+    "team_war": ,
+    "playoffs": ,
+    "championship": 
 }, {
     "Rk": 19,
     "Tm ▴": "NYM",
@@ -529,7 +601,11 @@
     },
     "<": {
         "500": "23-17"
-    }
+    },
+    "payroll": ,
+    "team_war": ,
+    "playoffs": ,
+    "championship": 
 }, {
     "Rk": 20,
     "Tm ▴": "NYY",
@@ -557,7 +633,11 @@
     },
     "<": {
         "500": "54-24"
-    }
+    },
+    "payroll": ,
+    "team_war": ,
+    "playoffs": ,
+    "championship": 
 }, {
     "Rk": 21,
     "Tm ▴": "OAK",
@@ -585,7 +665,11 @@
     },
     "<": {
         "500": "52-23"
-    }
+    },
+    "payroll": ,
+    "team_war": ,
+    "playoffs": ,
+    "championship": 
 }, {
     "Rk": 22,
     "Tm ▴": "PHI",
@@ -613,7 +697,11 @@
     },
     "<": {
         "500": "32-27"
-    }
+    },
+    "payroll": ,
+    "team_war": ,
+    "playoffs": ,
+    "championship": 
 }, {
     "Rk": 23,
     "Tm ▴": "PIT",
@@ -641,7 +729,11 @@
     },
     "<": {
         "500": "34-26"
-    }
+    },
+    "payroll": ,
+    "team_war": ,
+    "playoffs": ,
+    "championship": 
 }, {
     "Rk": 24,
     "Tm ▴": "SDP",
@@ -669,7 +761,11 @@
     },
     "<": {
         "500": "18-31"
-    }
+    },
+    "payroll": ,
+    "team_war": ,
+    "playoffs": ,
+    "championship": 
 }, {
     "Rk": 25,
     "Tm ▴": "SEA",
@@ -697,7 +793,11 @@
     },
     "<": {
         "500": "48-36"
-    }
+    },
+    "payroll": ,
+    "team_war": ,
+    "playoffs": ,
+    "championship": 
 }, {
     "Rk": 26,
     "Tm ▴": "SFG",
@@ -725,7 +825,11 @@
     },
     "<": {
         "500": "43-22"
-    }
+    },
+    "payroll": ,
+    "team_war": ,
+    "playoffs": ,
+    "championship": 
 }, {
     "Rk": 27,
     "Tm ▴": "STL",
@@ -753,7 +857,11 @@
     },
     "<": {
         "500": "43-27"
-    }
+    },
+    "payroll": ,
+    "team_war": ,
+    "playoffs": ,
+    "championship": 
 }, {
     "Rk": 28,
     "Tm ▴": "TBD",
@@ -781,7 +889,11 @@
     },
     "<": {
         "500": "24-32"
-    }
+    },
+    "payroll": ,
+    "team_war": ,
+    "playoffs": ,
+    "championship": 
 }, {
     "Rk": 29,
     "Tm ▴": "TEX",
@@ -809,7 +921,11 @@
     },
     "<": {
         "500": "30-26"
-    }
+    },
+    "payroll": ,
+    "team_war": ,
+    "playoffs": ,
+    "championship": 
 }, {
     "Rk": 30,
     "Tm ▴": "TOR",
@@ -837,5 +953,9 @@
     },
     "<": {
         "500": "46-31"
-    }
+    },
+    "payroll": ,
+    "team_war": ,
+    "playoffs": ,
+    "championship": 
 }]

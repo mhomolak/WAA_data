@@ -5,7 +5,7 @@ exports.up = function(knex, Promise) {
     table.integer('year').references('id').inTable('teams').onDelete('CASCADE').onUpdate('CASCADE');
     table.integer('team_id');
     table.integer('payroll');
-    table.decimal('team_war');
+    table.decimal('team_waa');
     table.integer('wins');
     table.integer('losses');
     table.boolean('playoffs').defaultTo('false');

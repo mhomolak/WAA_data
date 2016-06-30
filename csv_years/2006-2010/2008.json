@@ -27,7 +27,7 @@
         "500": "54-36"
     },
     "payroll": ,
-    "team_war": ,
+    "team_waa": ,
     "playoffs": ,
     "championship":
 }, {
@@ -59,7 +59,7 @@
         "500": "27-33"
     },
     "payroll": ,
-    "team_war": ,
+    "team_waa": ,
     "playoffs": ,
     "championship":
 }, {
@@ -91,7 +91,7 @@
         "500": "26-22"
     },
     "payroll": ,
-    "team_war": ,
+    "team_waa": ,
     "playoffs": ,
     "championship":
 }, {
@@ -123,7 +123,7 @@
         "500": "46-18"
     },
     "payroll": ,
-    "team_war": ,
+    "team_waa": ,
     "playoffs": true,
     "championship":
 }, {
@@ -155,7 +155,7 @@
         "500": "46-22"
     },
     "payroll": ,
-    "team_war": ,
+    "team_waa": ,
     "playoffs": true,
     "championship":
 }, {
@@ -187,7 +187,7 @@
         "500": "49-26"
     },
     "payroll": ,
-    "team_war": ,
+    "team_waa": ,
     "playoffs": true,
     "championship":
 }, {
@@ -219,7 +219,7 @@
         "500": "23-24"
     },
     "payroll": ,
-    "team_war": ,
+    "team_waa": ,
     "playoffs": ,
     "championship":
 }, {
@@ -251,7 +251,7 @@
         "500": "44-43"
     },
     "payroll": ,
-    "team_war": ,
+    "team_waa": ,
     "playoffs": ,
     "championship":
 }, {
@@ -283,7 +283,7 @@
         "500": "37-32"
     },
     "payroll": ,
-    "team_war": ,
+    "team_waa": ,
     "playoffs": ,
     "championship":
 }, {
@@ -315,7 +315,7 @@
         "500": "33-29"
     },
     "payroll": ,
-    "team_war": ,
+    "team_waa": ,
     "playoffs": ,
     "championship":
 }, {
@@ -347,7 +347,7 @@
         "500": "41-36"
     },
     "payroll": ,
-    "team_war": ,
+    "team_waa": ,
     "playoffs": ,
     "championship":
 }, {
@@ -379,7 +379,7 @@
         "500": "43-29"
     },
     "payroll": ,
-    "team_war": ,
+    "team_waa": ,
     "playoffs": ,
     "championship":
 }, {
@@ -411,7 +411,7 @@
         "500": "34-25"
     },
     "payroll": ,
-    "team_war": ,
+    "team_waa": ,
     "playoffs": ,
     "championship":
 }, {
@@ -443,7 +443,7 @@
         "500": "54-32"
     },
     "payroll": ,
-    "team_war": ,
+    "team_waa": ,
     "playoffs": true,
     "championship":
 }, {
@@ -475,7 +475,7 @@
         "500": "47-37"
     },
     "payroll": ,
-    "team_war": ,
+    "team_waa": ,
     "playoffs": true,
     "championship":
 }, {
@@ -507,7 +507,7 @@
         "500": "49-24"
     },
     "payroll": ,
-    "team_war": ,
+    "team_waa": ,
     "playoffs": true,
     "championship":
 }, {
@@ -539,7 +539,7 @@
         "500": "48-32"
     },
     "payroll": ,
-    "team_war": ,
+    "team_waa": ,
     "playoffs": ,
     "championship":
 }, {
@@ -571,7 +571,7 @@
         "500": "43-35"
     },
     "payroll": ,
-    "team_war": ,
+    "team_waa": ,
     "playoffs": ,
     "championship":
 }, {
@@ -603,7 +603,7 @@
         "500": "38-27"
     },
     "payroll": ,
-    "team_war": ,
+    "team_waa": ,
     "playoffs": ,
     "championship":
 }, {
@@ -635,7 +635,7 @@
         "500": "36-34"
     },
     "payroll": ,
-    "team_war": ,
+    "team_waa": ,
     "playoffs": ,
     "championship":
 }, {
@@ -667,7 +667,7 @@
         "500": "49-24"
     },
     "payroll": ,
-    "team_war": ,
+    "team_waa": ,
     "playoffs": true,
     "championship": true
 }, {
@@ -699,7 +699,7 @@
         "500": "27-25"
     },
     "payroll": ,
-    "team_war": ,
+    "team_waa": ,
     "playoffs": ,
     "championship":
 }, {
@@ -731,7 +731,7 @@
         "500": "29-42"
     },
     "payroll": ,
-    "team_war": ,
+    "team_waa": ,
     "playoffs": ,
     "championship":
 }, {
@@ -763,7 +763,7 @@
         "500": "30-49"
     },
     "payroll": ,
-    "team_war": ,
+    "team_waa": ,
     "playoffs": ,
     "championship":
 }, {
@@ -795,7 +795,7 @@
         "500": "39-35"
     },
     "payroll": ,
-    "team_war": ,
+    "team_waa": ,
     "playoffs": ,
     "championship":
 }, {
@@ -827,7 +827,7 @@
         "500": "43-32"
     },
     "payroll": ,
-    "team_war": ,
+    "team_waa": ,
     "playoffs": ,
     "championship":
 }, {
@@ -859,7 +859,7 @@
         "500": "42-19"
     },
     "payroll": ,
-    "team_war": ,
+    "team_waa": ,
     "playoffs": true,
     "championship":
 }, {
@@ -891,7 +891,7 @@
         "500": "42-29"
     },
     "payroll": ,
-    "team_war": ,
+    "team_waa": ,
     "playoffs": ,
     "championship":
 }, {
@@ -923,7 +923,7 @@
         "500": "41-28"
     },
     "payroll": ,
-    "team_war": ,
+    "team_waa": ,
     "playoffs": ,
     "championship":
 }, {
@@ -955,7 +955,7 @@
         "500": "30-34"
     },
     "payroll": ,
-    "team_war": ,
+    "team_waa": ,
     "playoffs": ,
     "championship":
 }]

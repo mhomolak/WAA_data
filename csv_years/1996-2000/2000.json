@@ -26,8 +26,8 @@
     "<": {
         "500": "40-31"
     },
-    "payroll": ,
-    "team_war": ,
+    "payroll": 51464167,
+    "team_waa": 3.2,
     "playoffs": ,
     "championship":
 }, {
@@ -58,8 +58,8 @@
     "<": {
         "500": "49-31"
     },
-    "payroll": ,
-    "team_war": ,
+    "payroll": 81027833,
+    "team_waa": 3.8,
     "playoffs": ,
     "championship":
 }, {
@@ -90,8 +90,8 @@
     "<": {
         "500": "53-34"
     },
-    "payroll": ,
-    "team_war": ,
+    "payroll": 84537836,
+    "team_waa": 12.5,
     "playoffs": true,
     "championship":
 }, {
@@ -122,8 +122,8 @@
     "<": {
         "500": "35-31"
     },
-    "payroll": ,
-    "team_war": ,
+    "payroll": 81447435,
+    "team_waa": -8.2,
     "playoffs": ,
     "championship":
 }, {
@@ -154,8 +154,8 @@
     "<": {
         "500": "44-31"
     },
-    "payroll": ,
-    "team_war": ,
+    "payroll": 77940333,
+    "team_waa": 4.4,
     "playoffs": ,
     "championship":
 }, {
@@ -186,8 +186,8 @@
     "<": {
         "500": "33-46"
     },
-    "payroll": ,
-    "team_war": ,
+    "payroll": 60539333,
+    "team_waa": -10.8,
     "playoffs": ,
     "championship":
 }, {
@@ -218,8 +218,8 @@
     "<": {
         "500": "46-32"
     },
-    "payroll": ,
-    "team_war": ,
+    "payroll": 31133500,
+    "team_waa": 10.0,
     "playoffs": true,
     "championship":
 }, {
@@ -250,8 +250,8 @@
     "<": {
         "500": "47-43"
     },
-    "payroll": ,
-    "team_war": ,
+    "payroll": 46867200,
+    "team_waa": 7.0,
     "playoffs": ,
     "championship":
 }, {
@@ -282,8 +282,8 @@
     "<": {
         "500": "42-34"
     },
-    "payroll": ,
-    "team_war": ,
+    "payroll": 75880871,
+    "team_waa": 14.3,
     "playoffs": ,
     "championship":
 }, {
@@ -314,8 +314,8 @@
     "<": {
         "500": "48-31"
     },
-    "payroll": ,
-    "team_war": ,
+    "payroll": 61111190,
+    "team_waa": 7.5,
     "playoffs": ,
     "championship":
 }, {
@@ -346,8 +346,8 @@
     "<": {
         "500": "31-35"
     },
-    "payroll": ,
-    "team_war": ,
+    "payroll": 58265167,
+    "team_waa": 1.8,
     "playoffs": ,
     "championship":
 }, {
@@ -378,8 +378,8 @@
     "<": {
         "500": "39-36"
     },
-    "payroll": ,
-    "team_war": ,
+    "payroll": 20072000,
+    "team_waa": -3.7,
     "playoffs": ,
     "championship":
 }, {
@@ -410,8 +410,8 @@
     "<": {
         "500": "44-38"
     },
-    "payroll": ,
-    "team_war": ,
+    "payroll": 51289111,
+    "team_waa": -2.1,
     "playoffs": ,
     "championship":
 }, {
@@ -442,8 +442,8 @@
     "<": {
         "500": "36-33"
     },
-    "payroll": ,
-    "team_war": ,
+    "payroll": 23433000,
+    "team_waa": -5.4,
     "playoffs": ,
     "championship":
 }, {
@@ -474,8 +474,8 @@
     "<": {
         "500": "46-30"
     },
-    "payroll": ,
-    "team_war": ,
+    "payroll": 88124286,
+    "team_waa": 9.8,
     "playoffs": ,
     "championship":
 }, {
@@ -506,8 +506,8 @@
     "<": {
         "500": "38-41"
     },
-    "payroll": ,
-    "team_war": ,
+    "payroll": 36505333,
+    "team_waa": -6.9,
     "playoffs": ,
     "championship":
 }, {
@@ -538,8 +538,8 @@
     "<": {
         "500": "31-37"
     },
-    "payroll": ,
-    "team_war": ,
+    "payroll": 16519500,
+    "team_waa": -6.9,
     "playoffs": ,
     "championship":
 }, {
@@ -570,8 +570,8 @@
     "<": {
         "500": "36-38"
     },
-    "payroll": ,
-    "team_war": ,
+    "payroll": 34807833,
+    "team_waa": -14.7,
     "playoffs": ,
     "championship":
 }, {
@@ -602,8 +602,8 @@
     "<": {
         "500": "52-32"
     },
-    "payroll": ,
-    "team_war": ,
+    "payroll": 79509776,
+    "team_waa": 7.7,
     "playoffs": true,
     "championship":
 }, {
@@ -634,8 +634,8 @@
     "<": {
         "500": "45-31"
     },
-    "payroll": ,
-    "team_war": ,
+    "payroll": 92538260,
+    "team_waa": 3.9,
     "playoffs": true,
     "championship": true
 }, {
@@ -666,8 +666,8 @@
     "<": {
         "500": "42-28"
     },
-    "payroll": ,
-    "team_war": ,
+    "payroll": 31971333,
+    "team_waa": 8.7,
     "playoffs": true,
     "championship":
 }, {
@@ -698,8 +698,8 @@
     "<": {
         "500": "31-44"
     },
-    "payroll": ,
-    "team_war": ,
+    "payroll": 47308000,
+    "team_waa": -9.7,
     "playoffs": ,
     "championship":
 }, {
@@ -730,8 +730,8 @@
     "<": {
         "500": "44-39"
     },
-    "payroll": ,
-    "team_war": ,
+    "payroll": 28928333,
+    "team_waa": -8.2,
     "playoffs": ,
     "championship":
 }, {
@@ -762,8 +762,8 @@
     "<": {
         "500": "40-23"
     },
-    "payroll": ,
-    "team_war": ,
+    "payroll": 54821000,
+    "team_waa": -6.3,
     "playoffs": ,
     "championship":
 }, {
@@ -794,8 +794,8 @@
     "<": {
         "500": "45-28"
     },
-    "payroll": ,
-    "team_war": ,
+    "payroll": 58915000,
+    "team_waa": 9.7,
     "playoffs": true,
     "championship":
 }, {
@@ -826,8 +826,8 @@
     "<": {
         "500": "54-23"
     },
-    "payroll": ,
-    "team_war": ,
+    "payroll": 53737826,
+    "team_waa": 17.3,
     "playoffs": true,
     "championship":
 }, {
@@ -858,8 +858,8 @@
     "<": {
         "500": "62-30"
     },
-    "payroll": ,
-    "team_war": ,
+    "payroll": 61453863,
+    "team_waa": 13.1,
     "playoffs": true,
     "championship":
 }, {
@@ -890,8 +890,8 @@
     "<": {
         "500": "33-33"
     },
-    "payroll": ,
-    "team_war": ,
+    "payroll": 62765129,
+    "team_waa": -9.6,
     "playoffs": ,
     "championship":
 }, {
@@ -922,8 +922,8 @@
     "<": {
         "500": "31-28"
     },
-    "payroll": ,
-    "team_war": ,
+    "payroll": 70795921,
+    "team_waa": -8.3,
     "playoffs": ,
     "championship":
 }, {
@@ -954,8 +954,8 @@
     "<": {
         "500": "44-34"
     },
-    "payroll": ,
-    "team_war": ,
+    "payroll": 46238333,
+    "team_waa": -1.2,
     "playoffs": ,
     "championship":
 }]

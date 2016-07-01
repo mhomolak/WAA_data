@@ -1,6 +1,6 @@
 [{
     "Rk": 1,
-    "team_name": "ATL",
+    "team_name": "Braves",
     "Lg": "NL",
     "year": 1996,
     "W": 96,
@@ -28,11 +28,11 @@
     },
     "payroll": 49698500,
     "team_waa": 17.6,
-    "playoffs": true,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 2,
-    "team_name": "BAL",
+    "team_name": "Orioles",
     "Lg": "AL",
     "year": 1996,
     "W": 88,
@@ -60,11 +60,11 @@
     },
     "payroll": 54599315,
     "team_waa": 2.0,
-    "playoffs": true,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 3,
-    "team_name": "BOS",
+    "team_name": "Redsox",
     "Lg": "AL",
     "year": 1996,
     "W": 85,
@@ -92,11 +92,11 @@
     },
     "payroll": 42393500,
     "team_waa": 0.0,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 4,
-    "team_name": "CAL",
+    "team_name": "Angels",
     "Lg": "AL",
     "year": 1996,
     "W": 70,
@@ -124,11 +124,11 @@
     },
     "payroll": 28847000,
     "team_waa": -10.4,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 5,
-    "team_name": "CHC",
+    "team_name": "Cubs",
     "Lg": "NL",
     "year": 1996,
     "W": 76,
@@ -156,11 +156,11 @@
     },
     "payroll": 33081000,
     "team_waa": -3.2,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 6,
-    "team_name": "CHW",
+    "team_name": "Whitesox",
     "Lg": "AL",
     "year": 1996,
     "W": 85,
@@ -188,11 +188,11 @@
     },
     "payroll": 45289500,
     "team_waa": 10.1,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 7,
-    "team_name": "CIN",
+    "team_name": "Reds",
     "Lg": "NL",
     "year": 1996,
     "W": 81,
@@ -220,11 +220,11 @@
     },
     "payroll": 42526334,
     "team_waa": 2.6,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 8,
-    "team_name": "CLE",
+    "team_name": "Indians",
     "Lg": "AL",
     "year": 1996,
     "W": 99,
@@ -252,11 +252,11 @@
     },
     "payroll": 48216360,
     "team_waa": 19.6,
-    "playoffs": true,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 9,
-    "team_name": "COL",
+    "team_name": "Rockies",
     "Lg": "NL",
     "year": 1996,
     "W": 83,
@@ -284,11 +284,11 @@
     },
     "payroll": 40324823,
     "team_waa": 0.1,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 10,
-    "team_name": "DET",
+    "team_name": "Tigers",
     "Lg": "AL",
     "year": 1996,
     "W": 53,
@@ -316,11 +316,11 @@
     },
     "payroll": 23438000,
     "team_waa": -30.1,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 11,
-    "team_name": "FLA",
+    "team_name": "Marlins",
     "Lg": "NL",
     "year": 1996,
     "W": 80,
@@ -348,11 +348,11 @@
     },
     "payroll": 31132000,
     "team_waa": 1.5,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 12,
-    "team_name": "HOU",
+    "team_name": "Astros",
     "Lg": "NL",
     "year": 1996,
     "W": 82,
@@ -380,11 +380,11 @@
     },
     "payroll": 28487000,
     "team_waa": -3.3,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 13,
-    "team_name": "KCR",
+    "team_name": "Royals",
     "Lg": "AL",
     "year": 1996,
     "W": 75,
@@ -412,11 +412,11 @@
     },
     "payroll": 20281250,
     "team_waa": -1.5,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 14,
-    "team_name": "LAD",
+    "team_name": "Dodgers",
     "Lg": "NL",
     "year": 1996,
     "W": 90,
@@ -444,11 +444,11 @@
     },
     "payroll": 35355000,
     "team_waa": 4.0,
-    "playoffs": true,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 15,
-    "team_name": "MIL",
+    "team_name": "Brewers",
     "Lg": "AL",
     "year": 1996,
     "W": 80,
@@ -476,11 +476,11 @@
     },
     "payroll": 21730000,
     "team_waa": -0.2,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 16,
-    "team_name": "MIN",
+    "team_name": "Twins",
     "Lg": "AL",
     "year": 1996,
     "W": 78,
@@ -508,11 +508,11 @@
     },
     "payroll": 23117000,
     "team_waa": -1.9,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 17,
-    "team_name": "MON",
+    "team_name": "Expos",
     "Lg": "NL",
     "year": 1996,
     "W": 88,
@@ -540,11 +540,11 @@
     },
     "payroll": 16264500,
     "team_waa": 6.8,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 18,
-    "team_name": "NYM",
+    "team_name": "Mets",
     "Lg": "NL",
     "year": 1996,
     "W": 71,
@@ -572,11 +572,11 @@
     },
     "payroll": 24479500,
     "team_waa": -0.4,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 19,
-    "team_name": "NYY",
+    "team_name": "Yankees",
     "Lg": "AL",
     "year": 1996,
     "W": 92,
@@ -604,11 +604,11 @@
     },
     "payroll": 54191792,
     "team_waa": 9.9,
-    "playoffs": true,
+    "playoffs": false,
     "championship": true
 }, {
     "Rk": 20,
-    "team_name": "OAK",
+    "team_name": "Athletics",
     "Lg": "AL",
     "year": 1996,
     "W": 78,
@@ -636,11 +636,11 @@
     },
     "payroll": 21243000,
     "team_waa": -3.5,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 21,
-    "team_name": "PHI",
+    "team_name": "Phillies",
     "Lg": "NL",
     "year": 1996,
     "W": 67,
@@ -668,11 +668,11 @@
     },
     "payroll": 34314500,
     "team_waa": -7.9,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 22,
-    "team_name": "PIT",
+    "team_name": "Pirates",
     "Lg": "NL",
     "year": 1996,
     "W": 73,
@@ -700,11 +700,11 @@
     },
     "payroll": 23017500,
     "team_waa": -5.4,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 23,
-    "team_name": "SDP",
+    "team_name": "Padres",
     "Lg": "NL",
     "year": 1996,
     "W": 91,
@@ -732,11 +732,11 @@
     },
     "payroll": 28348172,
     "team_waa": 9.0,
-    "playoffs": true,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 24,
-    "team_name": "SEA",
+    "team_name": "Mariners",
     "Lg": "AL",
     "year": 1996,
     "W": 85,
@@ -764,11 +764,11 @@
     },
     "payroll": 41328501,
     "team_waa": 7.1,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 25,
-    "team_name": "SFG",
+    "team_name": "Giants",
     "Lg": "NL",
     "year": 1996,
     "W": 68,
@@ -796,11 +796,11 @@
     },
     "payroll": 37144725,
     "team_waa": -11.9,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 26,
-    "team_name": "STL",
+    "team_name": "Cardinals",
     "Lg": "NL",
     "year": 1996,
     "W": 88,
@@ -828,11 +828,11 @@
     },
     "payroll": 40269667,
     "team_waa": 4.7,
-    "playoffs": true,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 27,
-    "team_name": "TEX",
+    "team_name": "Rangers",
     "Lg": "AL",
     "year": 1996,
     "W": 90,
@@ -860,11 +860,11 @@
     },
     "payroll": 39041528,
     "team_waa": 15.2,
-    "playoffs": true,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 28,
-    "team_name": "TOR",
+    "team_name": "Bluejays",
     "Lg": "AL",
     "year": 1996,
     "W": 74,
@@ -892,6 +892,6 @@
     },
     "payroll": 30555083,
     "team_waa": 0.1,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }]

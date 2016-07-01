@@ -1,6 +1,6 @@
 [{
     "Rk": 1,
-    "team_name": "ANA",
+    "team_name": "Angels",
     "Lg": "AL",
     "year": 2001,
     "W": 75,
@@ -28,11 +28,11 @@
     },
     "payroll": 46568180,
     "team_waa": 4.0,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 2,
-    "team_name": "ARI",
+    "team_name": "Diamondbacks",
     "Lg": "NL",
     "year": 2001,
     "W": 92,
@@ -64,7 +64,7 @@
     "championship": true
 }, {
     "Rk": 3,
-    "team_name": "ATL",
+    "team_name": "Braves",
     "Lg": "NL",
     "year": 2001,
     "W": 88,
@@ -93,10 +93,10 @@
     "payroll": 91851687,
     "team_waa": 6.3,
     "playoffs": true,
-    "championship":
+    "championship": false
 }, {
     "Rk": 4,
-    "team_name": "BAL",
+    "team_name": "Orioles",
     "Lg": "AL",
     "year": 2001,
     "W": 63,
@@ -124,11 +124,11 @@
     },
     "payroll": 72426328,
     "team_waa": -16.7,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 5,
-    "team_name": "BOS",
+    "team_name": "Redsox",
     "Lg": "AL",
     "year": 2001,
     "W": 82,
@@ -156,11 +156,11 @@
     },
     "payroll": 109558908,
     "team_waa": 2.4,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 6,
-    "team_name": "CHC",
+    "team_name": "Cubs",
     "Lg": "NL",
     "year": 2001,
     "W": 88,
@@ -188,11 +188,11 @@
     },
     "payroll": 64015833,
     "team_waa": 8.6,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 7,
-    "team_name": "CHW",
+    "team_name": "Whitesox",
     "Lg": "AL",
     "year": 2001,
     "W": 83,
@@ -220,11 +220,11 @@
     },
     "payroll": 62363000,
     "team_waa": 0.3,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 8,
-    "team_name": "CIN",
+    "team_name": "Reds",
     "Lg": "NL",
     "year": 2001,
     "W": 66,
@@ -252,11 +252,11 @@
     },
     "payroll": 45227882,
     "team_waa": -9.4,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 9,
-    "team_name": "CLE",
+    "team_name": "Indians",
     "Lg": "AL",
     "year": 2001,
     "W": 91,
@@ -285,10 +285,10 @@
     "payroll": 91974979,
     "team_waa": 4.6,
     "playoffs": true,
-    "championship":
+    "championship": false
 }, {
     "Rk": 10,
-    "team_name": "COL",
+    "team_name": "Rockies",
     "Lg": "NL",
     "year": 2001,
     "W": 73,
@@ -316,11 +316,11 @@
     },
     "payroll": 71068000,
     "team_waa": 7.9,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 11,
-    "team_name": "DET",
+    "team_name": "Tigers",
     "Lg": "AL",
     "year": 2001,
     "W": 66,
@@ -348,11 +348,11 @@
     },
     "payroll": 49831167,
     "team_waa": -12.2,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 12,
-    "team_name": "FLA",
+    "team_name": "Marlins",
     "Lg": "NL",
     "year": 2001,
     "W": 76,
@@ -380,11 +380,11 @@
     },
     "payroll": 35504167,
     "team_waa": -2.1,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 13,
-    "team_name": "HOU",
+    "team_name": "Astros",
     "Lg": "NL",
     "year": 2001,
     "W": 93,
@@ -413,10 +413,10 @@
     "payroll": 60382667,
     "team_waa": 10.1,
     "playoffs": true,
-    "championship":
+    "championship": false
 }, {
     "Rk": 14,
-    "team_name": "KCR",
+    "team_name": "Royals",
     "Lg": "AL",
     "year": 2001,
     "W": 65,
@@ -444,11 +444,11 @@
     },
     "payroll": 35643000,
     "team_waa": -10.0,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 15,
-    "team_name": "LAD",
+    "team_name": "Dodgers",
     "Lg": "NL",
     "year": 2001,
     "W": 86,
@@ -476,11 +476,11 @@
     },
     "payroll": 108980952,
     "team_waa": 1.8,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 16,
-    "team_name": "MIL",
+    "team_name": "Brewers",
     "Lg": "NL",
     "year": 2001,
     "W": 68,
@@ -508,11 +508,11 @@
     },
     "payroll": 43089333,
     "team_waa": -7.7,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 17,
-    "team_name": "MIN",
+    "team_name": "Twins",
     "Lg": "AL",
     "year": 2001,
     "W": 85,
@@ -540,11 +540,11 @@
     },
     "payroll": 24350000,
     "team_waa": 5.9,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 18,
-    "team_name": "MON",
+    "team_name": "Expos",
     "Lg": "NL",
     "year": 2001,
     "W": 68,
@@ -572,11 +572,11 @@
     },
     "payroll": 34774500,
     "team_waa": -16.8,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 19,
-    "team_name": "NYM",
+    "team_name": "Mets",
     "Lg": "NL",
     "year": 2001,
     "W": 82,
@@ -604,11 +604,11 @@
     },
     "payroll": 93174428,
     "team_waa": -4.2,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 20,
-    "team_name": "NYY",
+    "team_name": "Yankees",
     "Lg": "AL",
     "year": 2001,
     "W": 95,
@@ -637,10 +637,10 @@
     "payroll": 109791893,
     "team_waa": 8.1,
     "playoffs": true,
-    "championship":
+    "championship": false
 }, {
     "Rk": 21,
-    "team_name": "OAK",
+    "team_name": "Athletics",
     "Lg": "AL",
     "year": 2001,
     "W": 102,
@@ -669,10 +669,10 @@
     "payroll": 33810750,
     "team_waa": 19.1,
     "playoffs": true,
-    "championship":
+    "championship": false
 }, {
     "Rk": 22,
-    "team_name": "PHI",
+    "team_name": "Phillies",
     "Lg": "NL",
     "year": 2001,
     "W": 86,
@@ -700,11 +700,11 @@
     },
     "payroll": 41664167,
     "team_waa": 1.2,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 23,
-    "team_name": "PIT",
+    "team_name": "Pirates",
     "Lg": "NL",
     "year": 2001,
     "W": 62,
@@ -732,11 +732,11 @@
     },
     "payroll": 52698333,
     "team_waa": -18.1,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 24,
-    "team_name": "SDP",
+    "team_name": "Padres",
     "Lg": "NL",
     "year": 2001,
     "W": 79,
@@ -764,11 +764,11 @@
     },
     "payroll": 38333117,
     "team_waa": -1.7,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 25,
-    "team_name": "SEA",
+    "team_name": "Mariners",
     "Lg": "AL",
     "year": 2001,
     "W": 116,
@@ -797,10 +797,10 @@
     "payroll": 75652500,
     "team_waa": 30.5,
     "playoffs": true,
-    "championship":
+    "championship": false
 }, {
     "Rk": 26,
-    "team_name": "SFG",
+    "team_name": "Giants",
     "Lg": "NL",
     "year": 2001,
     "W": 90,
@@ -828,11 +828,11 @@
     },
     "payroll": 38333117,
     "team_waa": 11.0,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 27,
-    "team_name": "STL",
+    "team_name": "Cardinals",
     "Lg": "NL",
     "year": 2001,
     "W": 93,
@@ -861,10 +861,10 @@
     "payroll": 77270855,
     "team_waa": 12.4,
     "playoffs": true,
-    "championship":
+    "championship": false
 }, {
     "Rk": 28,
-    "team_name": "TBD",
+    "team_name": "Rays",
     "Lg": "AL",
     "year": 2001,
     "W": 62,
@@ -892,11 +892,11 @@
     },
     "payroll": 54951602,
     "team_waa": -19.4,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 29,
-    "team_name": "TEX",
+    "team_name": "Rangers",
     "Lg": "AL",
     "year": 2001,
     "W": 73,
@@ -924,11 +924,11 @@
     },
     "payroll": 88504421,
     "team_waa": -4.1,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 30,
-    "team_name": "TOR",
+    "team_name": "Bluejays",
     "Lg": "AL",
     "year": 2001,
     "W": 80,
@@ -956,6 +956,6 @@
     },
     "payroll": 75798500,
     "team_waa": 1.5,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }]

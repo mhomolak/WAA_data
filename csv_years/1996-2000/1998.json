@@ -1,6 +1,6 @@
 [{
     "Rk": 1,
-    "team_name": "ANA",
+    "team_name": "Angels",
     "Lg": "AL",
     "year": 1998,
     "W": 85,
@@ -28,11 +28,11 @@
     },
     "payroll": 48389000,
     "team_waa": 2.3,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 2,
-    "team_name": "ARI",
+    "team_name": "Diamondbacks",
     "Lg": "NL",
     "year": 1998,
     "W": 65,
@@ -60,11 +60,11 @@
     },
     "payroll": 31614500,
     "team_waa": -14.6,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 3,
-    "team_name": "ATL",
+    "team_name": "Braves",
     "Lg": "NL",
     "year": 1998,
     "W": 106,
@@ -93,10 +93,10 @@
     "payroll": 61708000,
     "team_waa": 27.8,
     "playoffs": true,
-    "championship":
+    "championship": false
 }, {
     "Rk": 4,
-    "team_name": "BAL",
+    "team_name": "Orioles",
     "Lg": "AL",
     "year": 1998,
     "W": 79,
@@ -124,11 +124,11 @@
     },
     "payroll": 71860921,
     "team_waa": 4.8,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 5,
-    "team_name": "BOS",
+    "team_name": "Redsox",
     "Lg": "AL",
     "year": 1998,
     "W": 92,
@@ -157,10 +157,10 @@
     "payroll": 59497000,
     "team_waa": 12.7,
     "playoffs": true,
-    "championship":
+    "championship": false
 }, {
     "Rk": 6,
-    "team_name": "CHC",
+    "team_name": "Cubs",
     "Lg": "NL",
     "year": 1998,
     "W": 90,
@@ -189,10 +189,10 @@
     "payroll": 49816000,
     "team_waa": 2.7,
     "playoffs": true,
-    "championship":
+    "championship": false
 }, {
     "Rk": 7,
-    "team_name": "CHW",
+    "team_name": "Whitesox",
     "Lg": "AL",
     "year": 1998,
     "W": 80,
@@ -220,11 +220,11 @@
     },
     "payroll": 35180000,
     "team_waa": -7.3,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 8,
-    "team_name": "CIN",
+    "team_name": "Reds",
     "Lg": "NL",
     "year": 1998,
     "W": 77,
@@ -252,11 +252,11 @@
     },
     "payroll": 20707333,
     "team_waa": -1.6,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 9,
-    "team_name": "CLE",
+    "team_name": "Indians",
     "Lg": "AL",
     "year": 1998,
     "W": 89,
@@ -285,10 +285,10 @@
     "payroll": 59543165,
     "team_waa": 9.1,
     "playoffs": true,
-    "championship":
+    "championship": false
 }, {
     "Rk": 10,
-    "team_name": "COL",
+    "team_name": "Rockies",
     "Lg": "NL",
     "year": 1998,
     "W": 77,
@@ -316,11 +316,11 @@
     },
     "payroll": 47714648,
     "team_waa": 4.4,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 11,
-    "team_name": "DET",
+    "team_name": "Tigers",
     "Lg": "AL",
     "year": 1998,
     "W": 65,
@@ -348,11 +348,11 @@
     },
     "payroll": 19237500,
     "team_waa": -9.5,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 12,
-    "team_name": "FLA",
+    "team_name": "Marlins",
     "Lg": "NL",
     "year": 1998,
     "W": 54,
@@ -380,11 +380,11 @@
     },
     "payroll": 15141000,
     "team_waa": -24.4,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 13,
-    "team_name": "HOU",
+    "team_name": "Astros",
     "Lg": "NL",
     "year": 1998,
     "W": 102,
@@ -413,10 +413,10 @@
     "payroll": 48304000,
     "team_waa": 26.6,
     "playoffs": true,
-    "championship":
+    "championship": false
 }, {
     "Rk": 14,
-    "team_name": "KCR",
+    "team_name": "Royals",
     "Lg": "AL",
     "year": 1998,
     "W": 72,
@@ -444,11 +444,11 @@
     },
     "payroll": 35610000,
     "team_waa": -17.7,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 15,
-    "team_name": "LAD",
+    "team_name": "Dodgers",
     "Lg": "NL",
     "year": 1998,
     "W": 83,
@@ -476,11 +476,11 @@
     },
     "payroll": 62806667,
     "team_waa": -0.3,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 16,
-    "team_name": "MIL",
+    "team_name": "Brewers",
     "Lg": "NL",
     "year": 1998,
     "W": 74,
@@ -508,11 +508,11 @@
     },
     "payroll": 31897903,
     "team_waa": -9.9,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 17,
-    "team_name": "MIN",
+    "team_name": "Twins",
     "Lg": "AL",
     "year": 1998,
     "W": 70,
@@ -540,11 +540,11 @@
     },
     "payroll": 24527500,
     "team_waa": -6.8,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 18,
-    "team_name": "MON",
+    "team_name": "Expos",
     "Lg": "NL",
     "year": 1998,
     "W": 65,
@@ -572,11 +572,11 @@
     },
     "payroll": 8317000,
     "team_waa": -11.8,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 19,
-    "team_name": "NYM",
+    "team_name": "Mets",
     "Lg": "NL",
     "year": 1998,
     "W": 88,
@@ -604,11 +604,11 @@
     },
     "payroll": 58660665,
     "team_waa": 6.6,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 20,
-    "team_name": "NYY",
+    "team_name": "Yankees",
     "Lg": "AL",
     "year": 1998,
     "W": 114,
@@ -640,7 +640,7 @@
     "championship": true
 }, {
     "Rk": 21,
-    "team_name": "OAK",
+    "team_name": "Athletics",
     "Lg": "AL",
     "year": 1998,
     "W": 74,
@@ -668,11 +668,11 @@
     },
     "payroll": 22463500,
     "team_waa": -8.2,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 22,
-    "team_name": "PHI",
+    "team_name": "Phillies",
     "Lg": "NL",
     "year": 1998,
     "W": 75,
@@ -700,11 +700,11 @@
     },
     "payroll": 28622500,
     "team_waa": -8.4,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 23,
-    "team_name": "PIT",
+    "team_name": "Pirates",
     "Lg": "NL",
     "year": 1998,
     "W": 69,
@@ -732,11 +732,11 @@
     },
     "payroll": 13695000,
     "team_waa": -6.3,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 24,
-    "team_name": "SDP",
+    "team_name": "Padres",
     "Lg": "NL",
     "year": 1998,
     "W": 98,
@@ -765,10 +765,10 @@
     "payroll": 53066166,
     "team_waa": 13.3,
     "playoffs": true,
-    "championship":
+    "championship": false
 }, {
     "Rk": 25,
-    "team_name": "SEA",
+    "team_name": "Mariners",
     "Lg": "AL",
     "year": 1998,
     "W": 76,
@@ -796,11 +796,11 @@
     },
     "payroll": 43698136,
     "team_waa": 3.6,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 26,
-    "team_name": "SFG",
+    "team_name": "Giants",
     "Lg": "NL",
     "year": 1998,
     "W": 89,
@@ -828,11 +828,11 @@
     },
     "payroll": 48514715,
     "team_waa": 9.8,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 27,
-    "team_name": "STL",
+    "team_name": "Cardinals",
     "Lg": "NL",
     "year": 1998,
     "W": 83,
@@ -860,11 +860,11 @@
     },
     "payroll": 44090854,
     "team_waa": 4.8,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 28,
-    "team_name": "TBD",
+    "team_name": "Rays",
     "Lg": "AL",
     "year": 1998,
     "W": 63,
@@ -892,11 +892,11 @@
     },
     "payroll": 27370000,
     "team_waa": -6.7,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 29,
-    "team_name": "TEX",
+    "team_name": "Rangers",
     "Lg": "AL",
     "year": 1998,
     "W": 88,
@@ -925,10 +925,10 @@
     "payroll": 60519595,
     "team_waa": 5.6,
     "playoffs": true,
-    "championship":
+    "championship": false
 }, {
     "Rk": 30,
-    "team_name": "TOR",
+    "team_name": "Bluejays",
     "Lg": "AL",
     "year": 1998,
     "W": 88,
@@ -956,6 +956,6 @@
     },
     "payroll": 34158500,
     "team_waa": 7.2,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }]

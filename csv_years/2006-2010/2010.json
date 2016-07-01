@@ -1,6 +1,6 @@
 [{
     "Rk": 1,
-    "team_name": "ARI",
+    "team_name": "Diamondbacks",
     "Lg": "NL",
     "year": 2010,
     "W": 65,
@@ -28,11 +28,11 @@
     },
     "payroll": 60718167,
     "team_waa": -11.2,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 2,
-    "team_name": "ATL",
+    "team_name": "Braves",
     "Lg": "NL",
     "year": 2010,
     "W": 91,
@@ -61,10 +61,10 @@
     "payroll": 84423667,
     "team_waa": 12.4,
     "playoffs": true,
-    "championship":
+    "championship": false
 }, {
     "Rk": 3,
-    "team_name": "BAL",
+    "team_name": "Orioles",
     "Lg": "AL",
     "year": 2010,
     "W": 66,
@@ -92,11 +92,11 @@
     },
     "payroll": 81612500,
     "team_waa": -10.5,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 4,
-    "team_name": "BOS",
+    "team_name": "Redsox",
     "Lg": "AL",
     "year": 2010,
     "W": 89,
@@ -124,11 +124,11 @@
     },
     "payroll": 162747333,
     "team_waa": 10.2,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 5,
-    "team_name": "CHC",
+    "team_name": "Cubs",
     "Lg": "NL",
     "year": 2010,
     "W": 75,
@@ -156,11 +156,11 @@
     },
     "payroll": 146859000,
     "team_waa": -3.5,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 6,
-    "team_name": "CHW",
+    "team_name": "Whitesox",
     "Lg": "AL",
     "year": 2010,
     "W": 88,
@@ -188,11 +188,11 @@
     },
     "payroll": 108273197,
     "team_waa": 6.7,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 7,
-    "team_name": "CIN",
+    "team_name": "Reds",
     "Lg": "NL",
     "year": 2010,
     "W": 91,
@@ -221,10 +221,10 @@
     "payroll": 72386544,
     "team_waa": 10.9,
     "playoffs": true,
-    "championship":
+    "championship": false
 }, {
     "Rk": 8,
-    "team_name": "CLE",
+    "team_name": "Indians",
     "Lg": "AL",
     "year": 2010,
     "W": 69,
@@ -252,11 +252,11 @@
     },
     "payroll": 61203967,
     "team_waa": -10.2,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 9,
-    "team_name": "COL",
+    "team_name": "Rockies",
     "Lg": "NL",
     "year": 2010,
     "W": 83,
@@ -284,11 +284,11 @@
     },
     "payroll": 84227000,
     "team_waa": 8.6,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 10,
-    "team_name": "DET",
+    "team_name": "Tigers",
     "Lg": "AL",
     "year": 2010,
     "W": 81,
@@ -316,11 +316,11 @@
     },
     "payroll": 122864929,
     "team_waa": 0.2,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 11,
-    "team_name": "FLA",
+    "team_name": "Marlins",
     "Lg": "NL",
     "year": 2010,
     "W": 80,
@@ -348,11 +348,11 @@
     },
     "payroll": 55641500,
     "team_waa": 2.0,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 12,
-    "team_name": "HOU",
+    "team_name": "Astros",
     "Lg": "NL",
     "year": 2010,
     "W": 76,
@@ -380,11 +380,11 @@
     },
     "payroll": 92355500,
     "team_waa": -13.4,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 13,
-    "team_name": "KCR",
+    "team_name": "Royals",
     "Lg": "AL",
     "year": 2010,
     "W": 67,
@@ -412,11 +412,11 @@
     },
     "payroll": 72267710,
     "team_waa": -13.9,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 14,
-    "team_name": "LAA",
+    "team_name": "Angels",
     "Lg": "AL",
     "year": 2010,
     "W": 80,
@@ -444,11 +444,11 @@
     },
     "payroll": 105013667,
     "team_waa": -3.4,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 15,
-    "team_name": "LAD",
+    "team_name": "Dodgers",
     "Lg": "NL",
     "year": 2010,
     "W": 80,
@@ -476,11 +476,11 @@
     },
     "payroll": 94945517,
     "team_waa": -1.7,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 16,
-    "team_name": "MIL",
+    "team_name": "Brewers",
     "Lg": "NL",
     "year": 2010,
     "W": 77,
@@ -508,11 +508,11 @@
     },
     "payroll": 81108279,
     "team_waa": -3.7,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 17,
-    "team_name": "MIN",
+    "team_name": "Twins",
     "Lg": "AL",
     "year": 2010,
     "W": 94,
@@ -541,10 +541,10 @@
     "payroll": 97559167,
     "team_waa": 10.6,
     "playoffs": true,
-    "championship":
+    "championship": false
 }, {
     "Rk": 18,
-    "team_name": "NYM",
+    "team_name": "Mets",
     "Lg": "NL",
     "year": 2010,
     "W": 79,
@@ -572,11 +572,11 @@
     },
     "payroll": 132701445,
     "team_waa": 2.8,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 19,
-    "team_name": "NYY",
+    "team_name": "Yankees",
     "Lg": "AL",
     "year": 2010,
     "W": 95,
@@ -605,10 +605,10 @@
     "payroll": 206333389,
     "team_waa": 12.6,
     "playoffs": true,
-    "championship":
+    "championship": false
 }, {
     "Rk": 20,
-    "team_name": "OAK",
+    "team_name": "Athletics",
     "Lg": "AL",
     "year": 2010,
     "W": 81,
@@ -636,11 +636,11 @@
     },
     "payroll": 51654900,
     "team_waa": 5.9,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 21,
-    "team_name": "PHI",
+    "team_name": "Phillies",
     "Lg": "NL",
     "year": 2010,
     "W": 97,
@@ -669,10 +669,10 @@
     "payroll": 141927381,
     "team_waa": 15.4,
     "playoffs": true,
-    "championship":
+    "championship": false
 }, {
     "Rk": 22,
-    "team_name": "PIT",
+    "team_name": "Pirates",
     "Lg": "NL",
     "year": 2010,
     "W": 57,
@@ -700,11 +700,11 @@
     },
     "payroll": 34943000,
     "team_waa": -24.5,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 23,
-    "team_name": "SDP",
+    "team_name": "Padres",
     "Lg": "NL",
     "year": 2010,
     "W": 90,
@@ -732,11 +732,11 @@
     },
     "payroll": 37799300,
     "team_waa": 7.1,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 24,
-    "team_name": "SEA",
+    "team_name": "Mariners",
     "Lg": "AL",
     "year": 2010,
     "W": 61,
@@ -764,11 +764,11 @@
     },
     "payroll": 98376667,
     "team_waa": -13.6,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 25,
-    "team_name": "SFG",
+    "team_name": "Giants",
     "Lg": "NL",
     "year": 2010,
     "W": 92,
@@ -800,7 +800,7 @@
     "championship": true
 }, {
     "Rk": 26,
-    "team_name": "STL",
+    "team_name": "Cardinals",
     "Lg": "NL",
     "year": 2010,
     "W": 86,
@@ -828,11 +828,11 @@
     },
     "payroll": 93540753,
     "team_waa": 11.7,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 27,
-    "team_name": "TBR",
+    "team_name": "Rays",
     "Lg": "AL",
     "year": 2010,
     "W": 96,
@@ -861,10 +861,10 @@
     "payroll": 71923471,
     "team_waa": 12.8,
     "playoffs": true,
-    "championship":
+    "championship": false
 }, {
     "Rk": 28,
-    "team_name": "TEX",
+    "team_name": "Rangers",
     "Lg": "AL",
     "year": 2010,
     "W": 90,
@@ -893,10 +893,10 @@
     "payroll": 55250545,
     "team_waa": 4.2,
     "playoffs": true,
-    "championship":
+    "championship": false
 }, {
     "Rk": 29,
-    "team_name": "TOR",
+    "team_name": "Bluejays",
     "Lg": "AL",
     "year": 2010,
     "W": 85,
@@ -924,11 +924,11 @@
     },
     "payroll": 62689357,
     "team_waa": 2.4,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 30,
-    "team_name": "WSN",
+    "team_name": "Nationals",
     "Lg": "NL",
     "year": 2010,
     "W": 69,
@@ -956,6 +956,6 @@
     },
     "payroll": 61425000,
     "team_waa": -8.6,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }]

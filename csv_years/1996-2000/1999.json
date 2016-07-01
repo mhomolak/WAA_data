@@ -1,6 +1,6 @@
  [{
     "Rk": 1,
-    "team_name": "ANA",
+    "team_name": "Angels",
     "Lg": "AL",
     "year": 1999,
     "W": 70,
@@ -28,11 +28,11 @@
     },
     "payroll": 49868167,
     "team_waa": -9.6,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 2,
-    "team_name": "ARI",
+    "team_name": "Diamondbacks",
     "Lg": "NL",
     "year": 1999,
     "W": 100,
@@ -61,10 +61,10 @@
     "payroll": 70496000,
     "team_waa": 21.5,
     "playoffs": true,
-    "championship":
+    "championship": false
 }, {
     "Rk": 3,
-    "team_name": "ATL",
+    "team_name": "Braves",
     "Lg": "NL",
     "year": 1999,
     "W": 103,
@@ -93,10 +93,10 @@
     "payroll": 74890000,
     "team_waa": 17.4,
     "playoffs": true,
-    "championship":
+    "championship": false
 }, {
     "Rk": 4,
-    "team_name": "BAL",
+    "team_name": "Orioles",
     "Lg": "AL",
     "year": 1999,
     "W": 78,
@@ -124,11 +124,11 @@
     },
     "payroll": 72198363,
     "team_waa": 7.6,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 5,
-    "team_name": "BOS",
+    "team_name": "Redsox",
     "Lg": "AL",
     "year": 1999,
     "W": 94,
@@ -157,10 +157,10 @@
     "payroll": 71725000,
     "team_waa": 13.1,
     "playoffs": true,
-    "championship":
+    "championship": false
 }, {
     "Rk": 6,
-    "team_name": "CHC",
+    "team_name": "Cubs",
     "Lg": "NL",
     "year": 1999,
     "W": 67,
@@ -188,11 +188,11 @@
     },
     "payroll": 55443500,
     "team_waa": -18.3,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 7,
-    "team_name": "CHW",
+    "team_name": "Whitesox",
     "Lg": "AL",
     "year": 1999,
     "W": 75,
@@ -220,11 +220,11 @@
     },
     "payroll": 24535000,
     "team_waa": 14.6,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 8,
-    "team_name": "CIN",
+    "team_name": "Reds",
     "Lg": "NL",
     "year": 1999,
     "W": 96,
@@ -252,11 +252,11 @@
     },
     "payroll": 42142761,
     "team_waa": 13.6,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 9,
-    "team_name": "CLE",
+    "team_name": "Indians",
     "Lg": "AL",
     "year": 1999,
     "W": 97,
@@ -285,10 +285,10 @@
     "payroll": 73278458,
     "team_waa": 11.2,
     "playoffs": true,
-    "championship":
+    "championship": false
 }, {
     "Rk": 10,
-    "team_name": "COL",
+    "team_name": "Rockies",
     "Lg": "NL",
     "year": 1999,
     "W": 72,
@@ -316,11 +316,11 @@
     },
     "payroll": 54442505,
     "team_waa": -6.0,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 11,
-    "team_name": "DET",
+    "team_name": "Tigers",
     "Lg": "AL",
     "year": 1999,
     "W": 69,
@@ -348,11 +348,11 @@
     },
     "payroll": 34959667,
     "team_waa": -8.0,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 12,
-    "team_name": "FLA",
+    "team_name": "Marlins",
     "Lg": "NL",
     "year": 1999,
     "W": 64,
@@ -380,11 +380,11 @@
     },
     "payroll": 15150000,
     "team_waa": -15.3,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 13,
-    "team_name": "HOU",
+    "team_name": "Astros",
     "Lg": "NL",
     "year": 1999,
     "W": 97,
@@ -413,10 +413,10 @@
     "payroll": 54339000,
     "team_waa": 14.6,
     "playoffs": true,
-    "championship":
+    "championship": false
 }, {
     "Rk": 14,
-    "team_name": "KCR",
+    "team_name": "Royals",
     "Lg": "AL",
     "year": 1999,
     "W": 64,
@@ -444,11 +444,11 @@
     },
     "payroll": 16557000,
     "team_waa": -4.6,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 15,
-    "team_name": "LAD",
+    "team_name": "Dodgers",
     "Lg": "NL",
     "year": 1999,
     "W": 77,
@@ -476,11 +476,11 @@
     },
     "payroll": 71115786,
     "team_waa": 1.0,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 16,
-    "team_name": "MIL",
+    "team_name": "Brewers",
     "Lg": "NL",
     "year": 1999,
     "W": 74,
@@ -508,11 +508,11 @@
     },
     "payroll": 42927395,
     "team_waa": -7.1,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 17,
-    "team_name": "MIN",
+    "team_name": "Twins",
     "Lg": "AL",
     "year": 1999,
     "W": 63,
@@ -540,11 +540,11 @@
     },
     "payroll": 16345000,
     "team_waa": -11.6,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 18,
-    "team_name": "MON",
+    "team_name": "Expos",
     "Lg": "NL",
     "year": 1999,
     "W": 68,
@@ -572,11 +572,11 @@
     },
     "payroll": 16413000,
     "team_waa": -10.5,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 19,
-    "team_name": "NYM",
+    "team_name": "Mets",
     "Lg": "NL",
     "year": 1999,
     "W": 97,
@@ -605,10 +605,10 @@
     "payroll": 71506427,
     "team_waa": 15.0,
     "playoffs": true,
-    "championship":
+    "championship": false
 }, {
     "Rk": 20,
-    "team_name": "NYY",
+    "team_name": "Yankees",
     "Lg": "AL",
     "year": 1999,
     "W": 98,
@@ -640,7 +640,7 @@
     "championship": true
 }, {
     "Rk": 21,
-    "team_name": "OAK",
+    "team_name": "Athletics",
     "Lg": "AL",
     "year": 1999,
     "W": 87,
@@ -668,11 +668,11 @@
     },
     "payroll": 24175333,
     "team_waa": 5.0,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 22,
-    "team_name": "PHI",
+    "team_name": "Phillies",
     "Lg": "NL",
     "year": 1999,
     "W": 77,
@@ -700,11 +700,11 @@
     },
     "payroll": 30568167,
     "team_waa": -0.8,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 23,
-    "team_name": "PIT",
+    "team_name": "Pirates",
     "Lg": "NL",
     "year": 1999,
     "W": 78,
@@ -732,11 +732,11 @@
     },
     "payroll": 24167667,
     "team_waa": -1.2,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 24,
-    "team_name": "SDP",
+    "team_name": "Padres",
     "Lg": "NL",
     "year": 1999,
     "W": 74,
@@ -764,11 +764,11 @@
     },
     "payroll": 45832180,
     "team_waa": -6.8,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 25,
-    "team_name": "SEA",
+    "team_name": "Mariners",
     "Lg": "AL",
     "year": 1999,
     "W": 79,
@@ -796,11 +796,11 @@
     },
     "payroll": 44396336,
     "team_waa": -0.7,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 26,
-    "team_name": "SFG",
+    "team_name": "Giants",
     "Lg": "NL",
     "year": 1999,
     "W": 86,
@@ -828,11 +828,11 @@
     },
     "payroll": 45959557,
     "team_waa": 2.7,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 27,
-    "team_name": "STL",
+    "team_name": "Cardinals",
     "Lg": "NL",
     "year": 1999,
     "W": 75,
@@ -860,11 +860,11 @@
     },
     "payroll": 46173195,
     "team_waa": -6.9,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 28,
-    "team_name": "TBD",
+    "team_name": "Rays",
     "Lg": "AL",
     "year": 1999,
     "W": 69,
@@ -892,11 +892,11 @@
     },
     "payroll": 38027500,
     "team_waa": -12.1,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 29,
-    "team_name": "TEX",
+    "team_name": "Rangers",
     "Lg": "AL",
     "year": 1999,
     "W": 95,
@@ -925,10 +925,10 @@
     "payroll": 81576598,
     "team_waa": 9.6,
     "playoffs": true,
-    "championship":
+    "championship": false
 }, {
     "Rk": 30,
-    "team_name": "TOR",
+    "team_name": "Bluejays",
     "Lg": "AL",
     "year": 1999,
     "W": 84,
@@ -956,6 +956,6 @@
     },
     "payroll": 48455333,
     "team_waa": 2.9,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }]

@@ -1,6 +1,6 @@
 [{
     "Rk": 1,
-    "team_name": "ARI",
+    "team_name": "Diamondbacks",
     "Lg": "NL",
     "year": 2014,
     "W": 64,
@@ -28,11 +28,11 @@
     },
     "payroll": 112688666,
     "team_waa": -11.7,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 2,
-    "team_name": "ATL",
+    "team_name": "Braves",
     "Lg": "NL",
     "year": 2014,
     "W": 79,
@@ -60,11 +60,11 @@
     },
     "payroll": 110897341,
     "team_waa": -1.0,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 3,
-    "team_name": "BAL",
+    "team_name": "Orioles",
     "Lg": "AL",
     "year": 2014,
     "W": 96,
@@ -93,10 +93,10 @@
     "payroll": 107406623,
     "team_waa": 11.1,
     "playoffs": true,
-    "championship":
+    "championship": false
 }, {
     "Rk": 4,
-    "team_name": "BOS",
+    "team_name": "Redsox",
     "Lg": "AL",
     "year": 2014,
     "W": 71,
@@ -124,11 +124,11 @@
     },
     "payroll": 162817411,
     "team_waa": -8.2,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 5,
-    "team_name": "CHC",
+    "team_name": "Cubs",
     "Lg": "NL",
     "year": 2014,
     "W": 73,
@@ -156,11 +156,11 @@
     },
     "payroll": 89007857,
     "team_waa": -6.6,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 6,
-    "team_name": "CHW",
+    "team_name": "Whitesox",
     "Lg": "AL",
     "year": 2014,
     "W": 73,
@@ -188,11 +188,11 @@
     },
     "payroll": 91159254,
     "team_waa": -6.8,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 7,
-    "team_name": "CIN",
+    "team_name": "Reds",
     "Lg": "NL",
     "year": 2014,
     "W": 76,
@@ -220,11 +220,11 @@
     },
     "payroll": 112390772,
     "team_waa": -0.7,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 8,
-    "team_name": "CLE",
+    "team_name": "Indians",
     "Lg": "AL",
     "year": 2014,
     "W": 85,
@@ -252,11 +252,11 @@
     },
     "payroll": 82534800,
     "team_waa": 1.6,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 9,
-    "team_name": "COL",
+    "team_name": "Rockies",
     "Lg": "NL",
     "year": 2014,
     "W": 66,
@@ -284,11 +284,11 @@
     },
     "payroll": 95832071,
     "team_waa": -3.8,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 10,
-    "team_name": "DET",
+    "team_name": "Tigers",
     "Lg": "AL",
     "year": 2014,
     "W": 90,
@@ -317,10 +317,10 @@
     "payroll": 162228527,
     "team_waa": 8.3,
     "playoffs": true,
-    "championship":
+    "championship": false
 }, {
     "Rk": 11,
-    "team_name": "HOU",
+    "team_name": "Astros",
     "Lg": "AL",
     "year": 2014,
     "W": 70,
@@ -348,11 +348,11 @@
     },
     "payroll": 44544174,
     "team_waa": -6.9,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 12,
-    "team_name": "KCR",
+    "team_name": "Royals",
     "Lg": "AL",
     "year": 2014,
     "W": 89,
@@ -381,10 +381,10 @@
     "payroll": 92034345,
     "team_waa": 5.1,
     "playoffs": true,
-    "championship":
+    "championship": false
 }, {
     "Rk": 13,
-    "team_name": "LAA",
+    "team_name": "Angels",
     "Lg": "AL",
     "year": 2014,
     "W": 98,
@@ -413,10 +413,10 @@
     "payroll": 155692000,
     "team_waa": 11.2,
     "playoffs": true,
-    "championship":
+    "championship": false
 }, {
     "Rk": 14,
-    "team_name": "LAD",
+    "team_name": "Dodgers",
     "Lg": "NL",
     "year": 2014,
     "W": 94,
@@ -445,10 +445,10 @@
     "payroll": 235295219,
     "team_waa": 15.0,
     "playoffs": true,
-    "championship":
+    "championship": false
 }, {
     "Rk": 15,
-    "team_name": "MIA",
+    "team_name": "Marlins",
     "Lg": "NL",
     "year": 2014,
     "W": 77,
@@ -476,11 +476,11 @@
     },
     "payroll": 47565400,
     "team_waa": -1.5,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 16,
-    "team_name": "MIL",
+    "team_name": "Brewers",
     "Lg": "NL",
     "year": 2014,
     "W": 82,
@@ -508,11 +508,11 @@
     },
     "payroll": 103844806,
     "team_waa": 1.7,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 17,
-    "team_name": "MIN",
+    "team_name": "Twins",
     "Lg": "AL",
     "year": 2014,
     "W": 70,
@@ -540,11 +540,11 @@
     },
     "payroll": 85776500,
     "team_waa": -8.3,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 18,
-    "team_name": "NYM",
+    "team_name": "Mets",
     "Lg": "NL",
     "year": 2014,
     "W": 79,
@@ -572,11 +572,11 @@
     },
     "payroll": 89051758,
     "team_waa": -0.7,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 19,
-    "team_name": "NYY",
+    "team_name": "Yankees",
     "Lg": "AL",
     "year": 2014,
     "W": 84,
@@ -604,11 +604,11 @@
     },
     "payroll": 203812506,
     "team_waa": -1.7,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 20,
-    "team_name": "OAK",
+    "team_name": "Athletics",
     "Lg": "AL",
     "year": 2014,
     "W": 88,
@@ -637,10 +637,10 @@
     "payroll": 83401400,
     "team_waa": 9.8,
     "playoffs": true,
-    "championship":
+    "championship": false
 }, {
     "Rk": 21,
-    "team_name": "PHI",
+    "team_name": "Phillies",
     "Lg": "NL",
     "year": 2014,
     "W": 73,
@@ -668,11 +668,11 @@
     },
     "payroll": 180052723,
     "team_waa": -5.2,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 22,
-    "team_name": "PIT",
+    "team_name": "Pirates",
     "Lg": "NL",
     "year": 2014,
     "W": 88,
@@ -701,10 +701,10 @@
     "payroll": 78111667,
     "team_waa": 8.6,
     "playoffs": true,
-    "championship":
+    "championship": false
 }, {
     "Rk": 23,
-    "team_name": "SDP",
+    "team_name": "Padres",
     "Lg": "NL",
     "year": 2014,
     "W": 77,
@@ -732,11 +732,11 @@
     },
     "payroll": 90094196,
     "team_waa": -2.7,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 24,
-    "team_name": "SEA",
+    "team_name": "Mariners",
     "Lg": "AL",
     "year": 2014,
     "W": 87,
@@ -764,11 +764,11 @@
     },
     "payroll": 92081943,
     "team_waa": 6.2,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 25,
-    "team_name": "SFG",
+    "team_name": "Giants",
     "Lg": "NL",
     "year": 2014,
     "W": 88,
@@ -800,7 +800,7 @@
     "championship": true
 }, {
     "Rk": 26,
-    "team_name": "STL",
+    "team_name": "Cardinals",
     "Lg": "NL",
     "year": 2014,
     "W": 90,
@@ -829,10 +829,10 @@
     "payroll": 111020360,
     "team_waa": 2.9,
     "playoffs": true,
-    "championship":
+    "championship": false
 }, {
     "Rk": 27,
-    "team_name": "TBR",
+    "team_name": "Rays",
     "Lg": "AL",
     "year": 2014,
     "W": 77,
@@ -860,11 +860,11 @@
     },
     "payroll": 77062891,
     "team_waa": 0.9,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 28,
-    "team_name": "TEX",
+    "team_name": "Rangers",
     "Lg": "AL",
     "year": 2014,
     "W": 67,
@@ -892,11 +892,11 @@
     },
     "payroll": 136036172,
     "team_waa": -13.2,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 29,
-    "team_name": "TOR",
+    "team_name": "Bluejays",
     "Lg": "AL",
     "year": 2014,
     "W": 83,
@@ -924,11 +924,11 @@
     },
     "payroll": 132628700,
     "team_waa": 5.4,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 30,
-    "team_name": "WSN",
+    "team_name": "Nationals",
     "Lg": "NL",
     "year": 2014,
     "W": 96,
@@ -957,5 +957,5 @@
     "payroll": 134704437,
     "team_waa": 17.9,
     "playoffs": true,
-    "championship":
+    "championship": false
 }]

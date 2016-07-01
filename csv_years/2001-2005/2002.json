@@ -1,6 +1,6 @@
 [{
     "Rk": 1,
-    "team_name": "ANA",
+    "team_name": "Angels",
     "Lg": "AL",
     "year": 2002,
     "W": 99,
@@ -32,7 +32,7 @@
     "championship": true
 }, {
     "Rk": 2,
-    "team_name": "ARI",
+    "team_name": "Diamondbacks",
     "Lg": "NL",
     "year": 2002,
     "W": 98,
@@ -61,10 +61,10 @@
     "payroll": 102820000,
     "team_waa": 17.5,
     "playoffs": true,
-    "championship":
+    "championship": false
 }, {
     "Rk": 3,
-    "team_name": "ATL",
+    "team_name": "Braves",
     "Lg": "NL",
     "year": 2002,
     "W": 101,
@@ -93,10 +93,10 @@
     "payroll": 93470367,
     "team_waa": 16.3,
     "playoffs": true,
-    "championship":
+    "championship": false
 }, {
     "Rk": 4,
-    "team_name": "BAL",
+    "team_name": "Orioles",
     "Lg": "AL",
     "year": 2002,
     "W": 67,
@@ -124,11 +124,11 @@
     },
     "payroll": 60493487,
     "team_waa": -6.1,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 5,
-    "team_name": "BOS",
+    "team_name": "Redsox",
     "Lg": "AL",
     "year": 2002,
     "W": 93,
@@ -156,11 +156,11 @@
     },
     "payroll": 108366060,
     "team_waa": 17.4,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 6,
-    "team_name": "CHC",
+    "team_name": "Cubs",
     "Lg": "NL",
     "year": 2002,
     "W": 67,
@@ -188,11 +188,11 @@
     },
     "payroll": 75690833,
     "team_waa": -4.1,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 7,
-    "team_name": "CHW",
+    "team_name": "Whitesox",
     "Lg": "AL",
     "year": 2002,
     "W": 81,
@@ -220,11 +220,11 @@
     },
     "payroll": 57052833,
     "team_waa": 1.2,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 8,
-    "team_name": "CIN",
+    "team_name": "Reds",
     "Lg": "NL",
     "year": 2002,
     "W": 78,
@@ -252,11 +252,11 @@
     },
     "payroll": 45050390,
     "team_waa": -6.0,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 9,
-    "team_name": "CLE",
+    "team_name": "Indians",
     "Lg": "AL",
     "year": 2002,
     "W": 74,
@@ -284,11 +284,11 @@
     },
     "payroll": 78909448,
     "team_waa": -9.4,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 10,
-    "team_name": "COL",
+    "team_name": "Rockies",
     "Lg": "NL",
     "year": 2002,
     "W": 73,
@@ -316,11 +316,11 @@
     },
     "payroll": 78909448,
     "team_waa": -11.4,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 11,
-    "team_name": "DET",
+    "team_name": "Tigers",
     "Lg": "AL",
     "year": 2002,
     "W": 55,
@@ -348,11 +348,11 @@
     },
     "payroll": 55048000,
     "team_waa": -23.0,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 12,
-    "team_name": "FLA",
+    "team_name": "Marlins",
     "Lg": "NL",
     "year": 2002,
     "W": 79,
@@ -380,11 +380,11 @@
     },
     "payroll": 41979917,
     "team_waa": -3.7,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 13,
-    "team_name": "HOU",
+    "team_name": "Astros",
     "Lg": "NL",
     "year": 2002,
     "W": 84,
@@ -412,11 +412,11 @@
     },
     "payroll": 63448417,
     "team_waa": 5.3,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 14,
-    "team_name": "KCR",
+    "team_name": "Royals",
     "Lg": "AL",
     "year": 2002,
     "W": 62,
@@ -444,11 +444,11 @@
     },
     "payroll": 47257000,
     "team_waa": -14.6,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 15,
-    "team_name": "LAD",
+    "team_name": "Dodgers",
     "Lg": "NL",
     "year": 2002,
     "W": 92,
@@ -476,11 +476,11 @@
     },
     "payroll": 94850952,
     "team_waa": 8.6,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 16,
-    "team_name": "MIL",
+    "team_name": "Brewers",
     "Lg": "NL",
     "year": 2002,
     "W": 56,
@@ -508,11 +508,11 @@
     },
     "payroll": 50287833,
     "team_waa": -17.9,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 17,
-    "team_name": "MIN",
+    "team_name": "Twins",
     "Lg": "AL",
     "year": 2002,
     "W": 94,
@@ -541,10 +541,10 @@
     "payroll": 40225000,
     "team_waa": 6.2,
     "playoffs": true,
-    "championship":
+    "championship": false
 }, {
     "Rk": 18,
-    "team_name": "MON",
+    "team_name": "Expos",
     "Lg": "NL",
     "year": 2002,
     "W": 83,
@@ -572,11 +572,11 @@
     },
     "payroll": 38670500,
     "team_waa": 2.6,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 19,
-    "team_name": "NYM",
+    "team_name": "Mets",
     "Lg": "NL",
     "year": 2002,
     "W": 75,
@@ -604,11 +604,11 @@
     },
     "payroll": 94633593,
     "team_waa": -1.1,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 20,
-    "team_name": "NYY",
+    "team_name": "Yankees",
     "Lg": "AL",
     "year": 2002,
     "W": 103,
@@ -637,10 +637,10 @@
     "payroll": 125928583,
     "team_waa": 19.6,
     "playoffs": true,
-    "championship":
+    "championship": false
 }, {
     "Rk": 21,
-    "team_name": "OAK",
+    "team_name": "Athletics",
     "Lg": "AL",
     "year": 2002,
     "W": 103,
@@ -669,10 +669,10 @@
     "payroll": 39679746,
     "team_waa": 16.8,
     "playoffs": true,
-    "championship":
+    "championship": false
 }, {
     "Rk": 22,
-    "team_name": "PHI",
+    "team_name": "Phillies",
     "Lg": "NL",
     "year": 2002,
     "W": 80,
@@ -700,11 +700,11 @@
     },
     "payroll": 57955000,
     "team_waa": 3.9,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 23,
-    "team_name": "PIT",
+    "team_name": "Pirates",
     "Lg": "NL",
     "year": 2002,
     "W": 72,
@@ -732,11 +732,11 @@
     },
     "payroll": 42323598,
     "team_waa": -10.4,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 24,
-    "team_name": "SDP",
+    "team_name": "Padres",
     "Lg": "NL",
     "year": 2002,
     "W": 66,
@@ -764,11 +764,11 @@
     },
     "payroll": 41425000,
     "team_waa": -13.5,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 25,
-    "team_name": "SEA",
+    "team_name": "Mariners",
     "Lg": "AL",
     "year": 2002,
     "W": 93,
@@ -796,11 +796,11 @@
     },
     "payroll": 80282668,
     "team_waa": 12.6,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 26,
-    "team_name": "SFG",
+    "team_name": "Giants",
     "Lg": "NL",
     "year": 2002,
     "W": 95,
@@ -829,10 +829,10 @@
     "payroll": 78299835,
     "team_waa": 21.4,
     "playoffs": true,
-    "championship":
+    "championship": false
 }, {
     "Rk": 27,
-    "team_name": "STL",
+    "team_name": "Cardinals",
     "Lg": "NL",
     "year": 2002,
     "W": 97,
@@ -861,10 +861,10 @@
     "payroll": 74098267,
     "team_waa": 11.4,
     "playoffs": true,
-    "championship":
+    "championship": false
 }, {
     "Rk": 28,
-    "team_name": "TBD",
+    "team_name": "Rays",
     "Lg": "AL",
     "year": 2002,
     "W": 55,
@@ -892,11 +892,11 @@
     },
     "payroll": 34380000,
     "team_waa": -19.5,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 29,
-    "team_name": "TEX",
+    "team_name": "Rangers",
     "Lg": "AL",
     "year": 2002,
     "W": 72,
@@ -924,11 +924,11 @@
     },
     "payroll": 105302124,
     "team_waa": -0.8,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 30,
-    "team_name": "TOR",
+    "team_name": "Bluejays",
     "Lg": "AL",
     "year": 2002,
     "W": 78,
@@ -956,6 +956,6 @@
     },
     "payroll": 76864333,
     "team_waa": -2.3,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }]

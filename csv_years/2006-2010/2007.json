@@ -1,6 +1,6 @@
 [{
     "Rk": 1,
-    "team_name": "ARI",
+    "team_name": "Diamondbacks",
     "Lg": "NL",
     "year": 2007,
     "W": 90,
@@ -29,10 +29,10 @@
     "payroll": 52067546,
     "team_waa": 0.6,
     "playoffs": true,
-    "championship":
+    "championship": false
 }, {
     "Rk": 2,
-    "team_name": "ATL",
+    "team_name": "Braves",
     "Lg": "NL",
     "year": 2007,
     "W": 84,
@@ -60,11 +60,11 @@
     },
     "payroll": 87290833,
     "team_waa": 10.8,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 3,
-    "team_name": "BAL",
+    "team_name": "Orioles",
     "Lg": "AL",
     "year": 2007,
     "W": 69,
@@ -92,11 +92,11 @@
     },
     "payroll": 93554808,
     "team_waa": -9.3,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 4,
-    "team_name": "BOS",
+    "team_name": "Redsox",
     "Lg": "AL",
     "year": 2007,
     "W": 96,
@@ -128,7 +128,7 @@
     "championship": true
 }, {
     "Rk": 5,
-    "team_name": "CHC",
+    "team_name": "Cubs",
     "Lg": "NL",
     "year": 2007,
     "W": 85,
@@ -157,10 +157,10 @@
     "payroll": 99670332,
     "team_waa": 8.9,
     "playoffs": true,
-    "championship":
+    "championship": false
 }, {
     "Rk": 6,
-    "team_name": "CHW",
+    "team_name": "Whitesox",
     "Lg": "AL",
     "year": 2007,
     "W": 72,
@@ -188,11 +188,11 @@
     },
     "payroll": 108671833,
     "team_waa": -12.8,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 7,
-    "team_name": "CIN",
+    "team_name": "Reds",
     "Lg": "NL",
     "year": 2007,
     "W": 72,
@@ -220,11 +220,11 @@
     },
     "payroll": 68904980,
     "team_waa": -4.0,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 8,
-    "team_name": "CLE",
+    "team_name": "Indians",
     "Lg": "AL",
     "year": 2007,
     "W": 96,
@@ -253,10 +253,10 @@
     "payroll": 61673267,
     "team_waa": 9.5,
     "playoffs": true,
-    "championship":
+    "championship": false
 }, {
     "Rk": 9,
-    "team_name": "COL",
+    "team_name": "Rockies",
     "Lg": "NL",
     "year": 2007,
     "W": 90,
@@ -285,10 +285,10 @@
     "payroll": 54424000,
     "team_waa": 11.8,
     "playoffs": true,
-    "championship":
+    "championship": false
 }, {
     "Rk": 10,
-    "team_name": "DET",
+    "team_name": "Tigers",
     "Lg": "AL",
     "year": 2007,
     "W": 88,
@@ -316,11 +316,11 @@
     },
     "payroll": 95180369,
     "team_waa": 4.5,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 11,
-    "team_name": "FLA",
+    "team_name": "Marlins",
     "Lg": "NL",
     "year": 2007,
     "W": 71,
@@ -348,11 +348,11 @@
     },
     "payroll": 30507000,
     "team_waa": -5.9,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 12,
-    "team_name": "HOU",
+    "team_name": "Astros",
     "Lg": "NL",
     "year": 2007,
     "W": 73,
@@ -380,11 +380,11 @@
     },
     "payroll": 87759000,
     "team_waa": -5.7,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 13,
-    "team_name": "KCR",
+    "team_name": "Royals",
     "Lg": "AL",
     "year": 2007,
     "W": 69,
@@ -412,11 +412,11 @@
     },
     "payroll": 67116500,
     "team_waa": -7.2,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 14,
-    "team_name": "LAA",
+    "team_name": "Angels",
     "Lg": "AL",
     "year": 2007,
     "W": 94,
@@ -445,10 +445,10 @@
     "payroll": 109251333,
     "team_waa": 5.6,
     "playoffs": true,
-    "championship":
+    "championship": false
 }, {
     "Rk": 15,
-    "team_name": "LAD",
+    "team_name": "Dodgers",
     "Lg": "NL",
     "year": 2007,
     "W": 82,
@@ -476,11 +476,11 @@
     },
     "payroll": 108454524,
     "team_waa": 1.9,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 16,
-    "team_name": "MIL",
+    "team_name": "Brewers",
     "Lg": "NL",
     "year": 2007,
     "W": 83,
@@ -508,11 +508,11 @@
     },
     "payroll": 70986500,
     "team_waa": 3.6,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 17,
-    "team_name": "MIN",
+    "team_name": "Twins",
     "Lg": "AL",
     "year": 2007,
     "W": 79,
@@ -540,11 +540,11 @@
     },
     "payroll": 71439500,
     "team_waa": -0.8,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 18,
-    "team_name": "NYM",
+    "team_name": "Mets",
     "Lg": "NL",
     "year": 2007,
     "W": 88,
@@ -572,11 +572,11 @@
     },
     "payroll": 115231663,
     "team_waa": 9.7,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 19,
-    "team_name": "NYY",
+    "team_name": "Yankees",
     "Lg": "AL",
     "year": 2007,
     "W": 94,
@@ -605,10 +605,10 @@
     "payroll": 189639045,
     "team_waa": 18.4,
     "playoffs": true,
-    "championship":
+    "championship": false
 }, {
     "Rk": 20,
-    "team_name": "OAK",
+    "team_name": "Athletics",
     "Lg": "AL",
     "year": 2007,
     "W": 76,
@@ -636,11 +636,11 @@
     },
     "payroll": 79366940,
     "team_waa": -0.2,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 21,
-    "team_name": "PHI",
+    "team_name": "Phillies",
     "Lg": "NL",
     "year": 2007,
     "W": 89,
@@ -669,10 +669,10 @@
     "payroll": 89428213,
     "team_waa": 9.5,
     "playoffs": true,
-    "championship":
+    "championship": false
 }, {
     "Rk": 22,
-    "team_name": "PIT",
+    "team_name": "Pirates",
     "Lg": "NL",
     "year": 2007,
     "W": 68,
@@ -700,11 +700,11 @@
     },
     "payroll": 38537833,
     "team_waa": -11.6,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 23,
-    "team_name": "SDP",
+    "team_name": "Padres",
     "Lg": "NL",
     "year": 2007,
     "W": 89,
@@ -732,11 +732,11 @@
     },
     "payroll": 58110567,
     "team_waa": 8.4,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 24,
-    "team_name": "SEA",
+    "team_name": "Mariners",
     "Lg": "AL",
     "year": 2007,
     "W": 88,
@@ -764,11 +764,11 @@
     },
     "payroll": 106460833,
     "team_waa": -2.2,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 25,
-    "team_name": "SFG",
+    "team_name": "Giants",
     "Lg": "NL",
     "year": 2007,
     "W": 71,
@@ -796,11 +796,11 @@
     },
     "payroll": 90219056,
     "team_waa": -2.9,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 26,
-    "team_name": "STL",
+    "team_name": "Cardinals",
     "Lg": "NL",
     "year": 2007,
     "W": 78,
@@ -828,11 +828,11 @@
     },
     "payroll": 90286823,
     "team_waa": -7.5,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 27,
-    "team_name": "TBD",
+    "team_name": "Rays",
     "Lg": "AL",
     "year": 2007,
     "W": 66,
@@ -860,11 +860,11 @@
     },
     "payroll": 24123500,
     "team_waa": -9.1,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 28,
-    "team_name": "TEX",
+    "team_name": "Rangers",
     "Lg": "AL",
     "year": 2007,
     "W": 75,
@@ -892,11 +892,11 @@
     },
     "payroll": 68318675,
     "team_waa": -8.3,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 29,
-    "team_name": "TOR",
+    "team_name": "Bluejays",
     "Lg": "AL",
     "year": 2007,
     "W": 83,
@@ -924,11 +924,11 @@
     },
     "payroll": 81942800,
     "team_waa": 5.2,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }, {
     "Rk": 30,
-    "team_name": "WSN",
+    "team_name": "Nationals",
     "Lg": "NL",
     "year": 2007,
     "W": 73,
@@ -956,6 +956,6 @@
     },
     "payroll": 37347500,
     "team_waa": -7.7,
-    "playoffs": ,
-    "championship":
+    "playoffs": false,
+    "championship": false
 }]

@@ -3,7 +3,7 @@ var totalYears = 20;
 
 function seasonData() {
   var collection = [];
-  for(let i = 0; i < totalYears; i++){
+  for(var i = 0; i < totalYears; i++){
     var years = require(`../csv&json_years/1996-2015json/${startYear}.json`)
     for (var j = 0; j < years.length; j++) {
       collection.push({

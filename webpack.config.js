@@ -15,6 +15,8 @@ const config = {
   plugins: [
     new webpack.ProvidePlugin({
         d3: 'd3',
+        $: 'jquery',
+        jQuery: 'jquery'
     })
   ],
   module: {
@@ -32,15 +34,8 @@ const config = {
         exclude: /node_modules/,
         loaders: ['style-loader', 'css-loader', 'sass-loader']
       },
-
-      {
-        test: /\.css?$/,
-        loader: "style!css!"
-      },
-      {test: /\.(woff|woff2)(\?v=\d+\.\d+\.\d+)?$/, loader: 'url?limit=10000&mimetype=application/font-woff'},
-      {test: /\.ttf(\?v=\d+\.\d+\.\d+)?$/, loader: 'url?limit=10000&mimetype=application/octet-stream'},
-      {test: /\.eot(\?v=\d+\.\d+\.\d+)?$/, loader: 'file'},
-      {test: /\.svg(\?v=\d+\.\d+\.\d+)?$/, loader: 'url?limit=10000&mimetype=image/svg+xml'}
+      { test: /\.woff(2)?(\?v=[0-9]\.[0-9]\.[0-9])?$/, loader:"url?limit=10000&mimetype=application/font-woff" },
+      { test: /\.(ttf|eot|svg)(\?v=[0-9]\.[0-9]\.[0-9])?$/, loader: "file" }
     ]
   }
 };

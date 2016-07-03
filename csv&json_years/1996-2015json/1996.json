@@ -28,7 +28,7 @@
     },
     "payroll": 49698500,
     "team_waa": 17.6,
-    "playoffs": false,
+    "playoffs": true,
     "championship": false
 }, {
     "team_id": 2,
@@ -60,7 +60,7 @@
     },
     "payroll": 54599315,
     "team_waa": 2.0,
-    "playoffs": false,
+    "playoffs": true,
     "championship": false
 }, {
     "team_id": 3,
@@ -252,7 +252,7 @@
     },
     "payroll": 48216360,
     "team_waa": 19.6,
-    "playoffs": false,
+    "playoffs": true,
     "championship": false
 }, {
     "team_id": 8,
@@ -444,7 +444,7 @@
     },
     "payroll": 35355000,
     "team_waa": 4.0,
-    "playoffs": false,
+    "playoffs": true,
     "championship": false
 }, {
     "team_id": 15,
@@ -604,7 +604,7 @@
     },
     "payroll": 54191792,
     "team_waa": 9.9,
-    "playoffs": false,
+    "playoffs": true,
     "championship": true
 }, {
     "team_id": 19,
@@ -732,7 +732,7 @@
     },
     "payroll": 28348172,
     "team_waa": 9.0,
-    "playoffs": false,
+    "playoffs": true,
     "championship": false
 }, {
     "team_id": 23,
@@ -828,7 +828,7 @@
     },
     "payroll": 40269667,
     "team_waa": 4.7,
-    "playoffs": false,
+    "playoffs": true,
     "championship": false
 }, {
     "team_id": 26,
@@ -860,7 +860,7 @@
     },
     "payroll": 39041528,
     "team_waa": 15.2,
-    "playoffs": false,
+    "playoffs": true,
     "championship": false
 }, {
     "team_id": 27,

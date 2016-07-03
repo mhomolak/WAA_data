@@ -1,14 +1,14 @@
 import React from 'react';
 import {render} from 'react-dom';
+import Routes from './routes.js'
 
-import 'bootstrap-css'
+import 'jquery'
+import 'materialize-css'
+import 'materialize-loader'
 import 'd3'
 
-const App = () => (
-  <h1>Hello</h1>
-);
 
 render(
-  <App />,
+  <Routes />,
   document.getElementById('baseball')
 )

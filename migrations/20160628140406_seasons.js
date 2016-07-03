@@ -2,14 +2,14 @@
 exports.up = function(knex, Promise) {
   return knex.schema.createTable('seasons', function(table) {
     table.increments();
-    table.integer('year').references('id').inTable('teams').onDelete('CASCADE').onUpdate('CASCADE');
-    table.integer('team_id');
-    table.integer('payroll');
-    table.decimal('team_waa');
+    table.integer('year')
+    table.integer('team_id').references('id').inTable('teams').onDelete('CASCADE').onUpdate('CASCADE');;
     table.integer('wins');
     table.integer('losses');
-    table.boolean('playoffs').defaultTo('false');
-    table.boolean('championship').defaultTo('false');
+    table.integer('payroll');
+    table.decimal('team_waa');
+    table.boolean('playoffs');
+    table.boolean('championship');
   })
 };
 

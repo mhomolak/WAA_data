@@ -1,23 +1,22 @@
-var seasons1996_2000 = require('../csv_years/1996-2000/1996.json');
+var teams = require('../csv&json_years/1996-2015json/2015.json');
 
-var teamArr = [
-  {
-    id: 1,
-    name: 'cardinals'
-  },
-  {
-    id: 2,
-    name: 'yankees'
+function teamNames(teams) {
+  var teamArr = [];
+  for (var i = 0; i < teams.length; i++) {
+    teamArr.push({
+      team_name: teams[i].team_name
+    })
   }
-]
+  return teamArr;
+}
+// console.log(teamNames(teams));
 
 exports.seed = function(knex, Promise) {
-
 
   return knex('teams').del()
     .then(function () {
       return Promise.all([
-        knex('team').insert(teamArr)
+        knex('teams').insert(teamNames(teams))
       ]);
     });
 };

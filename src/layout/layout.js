@@ -8,9 +8,10 @@ console.log(process.env.NODE_ENV);
 if(process.env.NODE_ENV==='development'){
   API = 'http://localhost:3000'
 }
-else {
-  API = ""
+if(process.env.NODE_ENV==='production'){
+  API = window.location.origin
 }
+
 
 export default class Layout extends Component {
   constructor() {
@@ -46,6 +47,7 @@ export default class Layout extends Component {
       <div id="layout-container">
       <Header teams={this.state.teams} getTeam={this.getTeam.bind(this)}/>
       <h1>Home</h1>
+      <h1>{API}</h1>
       <main>
         {React.cloneElement(this.props.children, {
           team: this.state.team

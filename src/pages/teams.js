@@ -1,24 +1,37 @@
-import React from 'react';
+import React, { Component } from 'react';
+import TeamSeason from './TeamSeason'
 
 
-const Teams = (props) => {
-  console.log("p", props);
-  if (props.team.team_name) {
-      return (
-      <div >
-        <h1>Teams</h1>
-        <p>{props.team.team_name}</p>
-        <ul>{props.team.seasons.map((x, i) => (
-            <li key={i}>{x.year}</li>
-            ))}
-        </ul>
-
-      </div>
-    )
+export default class Teams extends Component {
+  constructor() {
+    super();
+    this.state = {
+      teamSeason: {}
+    }
   }
-  else{
-    return <div>hi</div>
+  getTeamSeason(year) {
+    this.setState({
+      teamSeason: this.props.team.seasons.find(x => x.year === year)
+    })
+
+  }
+  render() {
+    console.log("fuck", this.state.teamSeason);
+    if (this.props.team.team_name) {
+      return (
+        <div >
+        <h1>Teams</h1>
+        <p>{this.props.team.team_name}</p>
+        <ul>{this.props.team.seasons.map((x, i) => (
+          <li key={i} onClick={() => this.getTeamSeason(x.year)}>{x.year}</li>
+        ))}
+        </ul>
+        <TeamSeason season={this.state.teamSeason}/>
+        </div>
+      )
+    }
+    else{
+      return <div>hi</div>
+    }
   }
 }
-
-export default Teams

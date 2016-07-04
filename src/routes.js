@@ -9,8 +9,8 @@ const Routes = () => (
   <Router history={hashHistory}>
     <Route path="/" component={Layout}>
 
-      <Route path="/teams" component={Teams}/>
-      <Route path="/years" component={Years}/>
+      <Route path="/teams(/:status)" component={Teams}/>
+      <Route path="/years(/:status)"  component={Years}/>
 
 
     </Route>

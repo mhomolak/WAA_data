@@ -33,7 +33,7 @@ export default class Layout extends Component {
   }
   getTeam(id) {
     $.ajax({
-      url:`http://localhost:3000/api/teams/${id}`,
+      url:`${API}/api/teams/${id}`,
       type: "GET"
     }).then(res =>{
       this.setState({

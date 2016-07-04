@@ -1,5 +1,7 @@
 const webpack = require('webpack');
 
+const DEV = process.env.NODE_ENV==='development';
+
 const config = {
   entry: './src/',
   output: {
@@ -18,7 +20,8 @@ const config = {
         d3: 'd3',
         $: 'jquery',
         jQuery: 'jquery'
-    })
+    }),
+    new webpack.EnvironmentPlugin(["NODE_ENV"]),
   ],
   module: {
     loaders: [
@@ -40,5 +43,18 @@ const config = {
     ]
   }
 };
+
+if(!DEV){
+  config.plugins.push(
+    new webpack.optimize.UglifyJsPlugin({
+      minimize: true,
+      mangle: false,
+      compressor: {
+        drop_console: true,
+        warnings: true
+      }
+    })
+  );
+}
 
 module.exports = config;

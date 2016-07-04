@@ -2,6 +2,14 @@ import React, { Component } from 'react';
 
 import Header from './header.js'
 
+let API;
+
+if(process.env.NODE_ENV==='development'){
+  API = 'http://localhost:3000'
+}
+else {
+  API = ""
+}
 
 export default class Layout extends Component {
   constructor() {
@@ -13,7 +21,7 @@ export default class Layout extends Component {
   }
   componentWillMount() {
     $.ajax({
-      url:'http://localhost:3000/api/teams',
+      url:`${API}/api/teams`,
       type: "GET",
     }).then(res =>{
       this.setState({

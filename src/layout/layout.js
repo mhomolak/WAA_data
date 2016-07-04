@@ -3,6 +3,7 @@ import React, { Component } from 'react';
 import Header from './header.js'
 
 let API;
+console.log(process.env.NODE_ENV);
 
 if(process.env.NODE_ENV==='development'){
   API = 'http://localhost:3000'

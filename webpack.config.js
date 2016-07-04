@@ -14,7 +14,7 @@ const config = {
       index: '/index.html'
     }
   },
-  devtool: 'cheap-module-source-map',
+  devtool: DEV ? 'cheap-module-source-map' : 'source-map',
   plugins: [
     new webpack.ProvidePlugin({
         d3: 'd3',

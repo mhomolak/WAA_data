@@ -39,7 +39,6 @@ export default class Layout extends Component {
       <h1>Home</h1>
       <main>
         {React.cloneElement(this.props.children, {
-          teams: this.teams,
           team: this.state.team
         })}
 

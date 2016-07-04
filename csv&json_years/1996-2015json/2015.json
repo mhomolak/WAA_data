@@ -1,36 +1,4 @@
 [{
-    "team_id": 29,
-    "team_name": "Diamondbacks",
-    "Lg": "NL",
-    "year": 2015,
-    "wins": 79,
-    "losses": 83,
-    "W-L%": 0.488,
-    "R": 4.4,
-    "RA": 4.4,
-    "Rdiff": 0,
-    "SOS": -0.3,
-    "SRS": -0.2,
-    "pythWL": "82-80",
-    "Luck": -3,
-    "Inter": "11-9",
-    "Home": "39-42",
-    "Road": "40-41",
-    "ExInn": "9-9",
-    "1Run": "20-24",
-    "vRHP": "60-61",
-    "vLHP": "19-22",
-    "≥": {
-        "500": "32-53"
-    },
-    "<": {
-        "500": "47-30"
-    },
-    "payroll": 91518833,
-    "team_waa": 7.2,
-    "playoffs": false,
-    "championship": false
-}, {
     "team_id": 1,
     "team_name": "Braves",
     "Lg": "NL",
@@ -831,38 +799,6 @@
     "playoffs": true,
     "championship": false
 }, {
-    "team_id": 30,
-    "team_name": "Rays",
-    "Lg": "AL",
-    "year": 2015,
-    "wins": 80,
-    "losses": 82,
-    "W-L%": 0.494,
-    "R": 4,
-    "RA": 4,
-    "Rdiff": 0,
-    "SOS": 0.4,
-    "SRS": 0.4,
-    "pythWL": "81-81",
-    "Luck": -1,
-    "Inter": "14-6",
-    "Home": "42-42",
-    "Road": "38-40",
-    "ExInn": "2-13",
-    "1Run": "26-30",
-    "vRHP": "50-59",
-    "vLHP": "30-23",
-    "≥": {
-        "500": "46-58"
-    },
-    "<": {
-        "500": "34-24"
-    },
-    "payroll": 76061707,
-    "team_waa": 3.8,
-    "playoffs": false,
-    "championship": false
-}, {
     "team_id": 26,
     "team_name": "Rangers",
     "Lg": "AL",
@@ -956,6 +892,70 @@
     },
     "payroll": 164920505,
     "team_waa": 7.2,
+    "playoffs": false,
+    "championship": false
+}, {
+    "team_id": 29,
+    "team_name": "Diamondbacks",
+    "Lg": "NL",
+    "year": 2015,
+    "wins": 79,
+    "losses": 83,
+    "W-L%": 0.488,
+    "R": 4.4,
+    "RA": 4.4,
+    "Rdiff": 0,
+    "SOS": -0.3,
+    "SRS": -0.2,
+    "pythWL": "82-80",
+    "Luck": -3,
+    "Inter": "11-9",
+    "Home": "39-42",
+    "Road": "40-41",
+    "ExInn": "9-9",
+    "1Run": "20-24",
+    "vRHP": "60-61",
+    "vLHP": "19-22",
+    "≥": {
+        "500": "32-53"
+    },
+    "<": {
+        "500": "47-30"
+    },
+    "payroll": 91518833,
+    "team_waa": 7.2,
+    "playoffs": false,
+    "championship": false
+}, {
+    "team_id": 30,
+    "team_name": "Rays",
+    "Lg": "AL",
+    "year": 2015,
+    "wins": 80,
+    "losses": 82,
+    "W-L%": 0.494,
+    "R": 4,
+    "RA": 4,
+    "Rdiff": 0,
+    "SOS": 0.4,
+    "SRS": 0.4,
+    "pythWL": "81-81",
+    "Luck": -1,
+    "Inter": "14-6",
+    "Home": "42-42",
+    "Road": "38-40",
+    "ExInn": "2-13",
+    "1Run": "26-30",
+    "vRHP": "50-59",
+    "vLHP": "30-23",
+    "≥": {
+        "500": "46-58"
+    },
+    "<": {
+        "500": "34-24"
+    },
+    "payroll": 76061707,
+    "team_waa": 3.8,
     "playoffs": false,
     "championship": false
 }]

@@ -21,8 +21,6 @@ function seasonData() {
   }
   return collection;
 }
-// console.log(seasonData());
-// console.log(seasonData(years));
 
 exports.seed = function(knex, Promise) {
   return knex('seasons').del()

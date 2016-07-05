@@ -3,6 +3,8 @@ import { Link } from 'react-router'
 
 import {Button, Dropdown, NavItem} from 'react-materialize';
 
+import '../style/header.scss'
+
 
 function yearLinks(num, arr) {
   for (var i = 1996; i <= 2015; i++) {
@@ -12,7 +14,7 @@ function yearLinks(num, arr) {
 }
 
 const Header = (props) => (
-  <nav>
+  <nav className="test">
     <Dropdown trigger={<Button>Teams</Button>}>
       {props.teams.map((x,i) => (
         <div key={x.team_name} onClick={() => props.getTeam(x.id)}>

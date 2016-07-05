@@ -49,7 +49,6 @@ export default class Layout extends Component {
       this.setState({
         season: res
       })
-      console.log("balls", res);
     })
   }
   render() {
@@ -60,7 +59,6 @@ export default class Layout extends Component {
         getTeam={this.getTeam.bind(this)}
         getSeason={this.getSeason.bind(this)}
       />
-      <h1>Home</h1>
       <main>
         {React.cloneElement(this.props.children, {
           team: this.state.team,

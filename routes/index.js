@@ -25,8 +25,19 @@ router.get('/teams/:id', function(req, res, next) {
       team.seasons = teamSeasons;
       res.send(team);
     })
-    console.log("BIG OLE LOG");
   })
 });
+
+router.get('/years/:year', function(req, res, next) {
+  db.Seasons()
+  .where({
+    year: req.params.year
+  })
+  .then(years =>{
+    db.Teams()
+    res.send(years)
+  })
+})
+
 
 module.exports = router;

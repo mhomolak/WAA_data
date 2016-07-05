@@ -16,7 +16,6 @@ export default class Teams extends Component {
 
   }
   render() {
-    console.log("fuck", this.state.teamSeason);
     if (this.props.team.team_name) {
       return (
         <div >

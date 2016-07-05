@@ -7,6 +7,8 @@ import 'materialize-css'
 import 'materialize-loader'
 import 'd3'
 
+import './style/style.scss'
+
 
 render(
   <Routes />,

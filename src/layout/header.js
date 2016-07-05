@@ -6,13 +6,7 @@ import {Button, Dropdown, NavItem} from 'react-materialize';
 
 function yearLinks(num, arr) {
   for (var i = 1996; i <= 2015; i++) {
-    arr[i] = (
-      <div key={i}>
-        <NavItem href={`/#/years/${[i]}`}>
-        {i}
-        </NavItem>
-      </div>
-    )
+    arr.push(i)
   }
   return arr
 }
@@ -28,8 +22,14 @@ const Header = (props) => (
         </div>
       ))}
     </Dropdown>
-    <Dropdown trigger={<Button>Years</Button>}>
-      {yearLinks(20, []).map(link => link)}
+    <Dropdown trigger={<Button>Seasons</Button>}>
+      {yearLinks(20, []).map((x,i) => (
+        <div key={i} onClick={() => props.getSeason(x)}>
+          <NavItem href={`/#/years/${[x]}`}>
+          {x}
+          </NavItem>
+        </div>
+      ))}
     </Dropdown>
   </nav>
 )

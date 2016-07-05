@@ -3,7 +3,6 @@ import React, { Component } from 'react';
 import Header from './header.js'
 
 let API;
-console.log(process.env.NODE_ENV);
 
 if(process.env.NODE_ENV==='development'){
   API = 'http://localhost:3000'
@@ -12,13 +11,13 @@ if(process.env.NODE_ENV==='production'){
   API = window.location.origin
 }
 
-
 export default class Layout extends Component {
   constructor() {
     super();
     this.state = {
       teams: [],
-      team: {}
+      team: {},
+      season: []
     }
   }
   componentWillMount() {
@@ -39,20 +38,34 @@ export default class Layout extends Component {
       this.setState({
         team: res
       })
-      console.log("BALLS", res);
+    })
+  }
+  getSeason(year) {
+    console.log("year", year);
+    $.ajax({
+      url:`${API}/api/years/${year}`,
+      type: "GET"
+    }).then(res =>{
+      this.setState({
+        season: res
+      })
+      console.log("balls", res);
     })
   }
   render() {
     return (
       <div id="layout-container">
-      <Header teams={this.state.teams} getTeam={this.getTeam.bind(this)}/>
+      <Header
+        teams={this.state.teams}
+        getTeam={this.getTeam.bind(this)}
+        getSeason={this.getSeason.bind(this)}
+      />
       <h1>Home</h1>
-      <h1>{API}</h1>
       <main>
         {React.cloneElement(this.props.children, {
-          team: this.state.team
+          team: this.state.team,
+          season: this.state.season
         })}
-
       </main>
 
       </div>

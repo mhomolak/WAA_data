@@ -1,1 +1,11 @@
 @import 'header';
+@import 'years';
+@import 'teams';
+
+.bgImage {
+  position: absolute;
+  margin-left: 19em;
+  width: 13.6%;
+  height: auto;
+  opacity: 0.3;
+}

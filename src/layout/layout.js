@@ -41,7 +41,6 @@ export default class Layout extends Component {
     })
   }
   getSeason(year) {
-    console.log("year", year);
     $.ajax({
       url:`${API}/api/years/${year}`,
       type: "GET"
@@ -59,13 +58,13 @@ export default class Layout extends Component {
         getTeam={this.getTeam.bind(this)}
         getSeason={this.getSeason.bind(this)}
       />
+      <img className="bgImage" src="http://stuffled.com/vector/wp-content/uploads/sites/5/2014/04/Major-League-Baseball-Logo-Vector-Image.png"/>
       <main>
         {React.cloneElement(this.props.children, {
           team: this.state.team,
           season: this.state.season
         })}
       </main>
-
       </div>
     )
   }

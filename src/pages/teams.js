@@ -19,10 +19,9 @@ export default class Teams extends Component {
     if (this.props.team.team_name) {
       return (
         <div >
-        <h1>Teams</h1>
-        <p>{this.props.team.team_name}</p>
+        <h1>{this.props.team.team_name}</h1>
         <ul>{this.props.team.seasons.map((x, i) => (
-          <li key={i} onClick={() => this.getTeamSeason(x.year)}>{x.year}</li>
+          <li className="teamLi" key={i} onClick={() => this.getTeamSeason(x.year)}>{x.year}</li>
         ))}
         </ul>
         <TeamSeason season={this.state.teamSeason}/>
@@ -30,7 +29,7 @@ export default class Teams extends Component {
       )
     }
     else{
-      return <div>hi</div>
+      return <div></div>
     }
   }
 }

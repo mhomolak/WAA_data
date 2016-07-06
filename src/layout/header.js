@@ -15,6 +15,7 @@ function yearLinks(num, arr) {
 
 const Header = (props) => (
   <nav className="test">
+    <a href="#" className="home">Home</a>
     <Dropdown trigger={<Button>Teams</Button>}>
       {props.teams.map((x,i) => (
         <div key={x.team_name} onClick={() => props.getTeam(x.id)}>

@@ -1,6 +1,6 @@
 import React from 'react';
 
 const Landing = () => (
-  <h1>Landing</h1>
+  <h1>Home</h1>
 )
 export default Landing

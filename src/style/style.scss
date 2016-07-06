@@ -2,10 +2,26 @@
 @import 'years';
 @import 'teams';
 
-.bgImage {
+.headImage {
   position: absolute;
   margin-left: 19em;
   width: 13.6%;
   height: auto;
   opacity: 0.3;
+}
+
+.bgImage {
+  width: 30%;
+  height: auto;
+  opacity: 0.7;
+  float: left;
+  margin-left: 10em;
+}
+
+.homeText {
+  padding-left: 45em;
+}
+
+body {
+  background: #fafafa;
 }

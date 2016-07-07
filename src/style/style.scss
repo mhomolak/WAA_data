@@ -1,5 +1,4 @@
 @import 'header';
-@import 'years';
 @import 'teams';
 @import 'loader';
 
@@ -17,10 +16,13 @@
   opacity: 0.7;
   float: left;
   margin-left: 10em;
+  padding-top: 1em;
 }
 
 .homeText {
-  padding-left: 45em;
+  padding-top: 1em;
+  padding-left: 33em;
+  font-size: 20px;
 }
 
 body {

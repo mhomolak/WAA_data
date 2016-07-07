@@ -15,6 +15,34 @@ ul {
   float: left;
   width: 25%;
   font-size: 1.3em;
+  position: relative;
+  color: #000;
+  text-decoration: none;
+}
+
+.teamLi:hover {
+  color: #000;
+}
+
+.teamLi:before {
+  content: "";
+  position: absolute;
+  width: 16%;
+  height: 2px;
+  bottom: 0;
+  left: 0;
+  background-color: #000;
+  visibility: hidden;
+  -webkit-transform: scaleX(0);
+  transform: scaleX(0);
+  -webkit-transition: all 0.3s ease-in-out 0s;
+  transition: all 0.3s ease-in-out 0s;
+}
+
+.teamLi:hover:before {
+  visibility: visible;
+  -webkit-transform: scaleX(1);
+  transform: scaleX(1);
 }
 
 .teamSeason {

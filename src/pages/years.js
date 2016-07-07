@@ -4,26 +4,31 @@ import axios from 'axios';
 
 export default class Years extends Component {
 
-  // static contextTypes = {
-  //   router: PropTypes.object
-  // }
+constructor(props) {
+  super(props);
 
+  this.state = {
+    seasons: []
+  }
+}
 
-componentWillMount() {
-  if (this.props.season[0]) {
-
-    axios.get(`http://localhost:3000/years/${this.props.season[0].year}`)
-    .then((data) => {
-      console.log('DATA FROMA SERVER FOR GIVEN YEAR', data);
+componentWillReceiveProps() {
+  if (this.props.params.status) {
+    axios.get(`http://localhost:3000/api/years/${this.props.params.status}`)
+    .then((seasons) => {
+      this.setState({
+      seasons: seasons.data
+      })
     })
   }
 }
 componentWillReceiveProps() {
-  if (this.props.season[0]) {
-
-    axios.get(`http://localhost:3000/years/${this.props.season[0].year}`)
-    .then((data) => {
-      console.log('DATA FROMA SERVER FOR GIVEN YEAR', data);
+  if (this.props.params.status) {
+    axios.get(`http://localhost:3000/api/years/${this.props.params.status}`)
+    .then((seasons) => {
+      this.setState({
+      seasons: seasons.data
+      })
     })
   }
 }
@@ -197,8 +202,22 @@ componentWillReceiveProps() {
     //     [180.3, 83.2], [180.3, 83.2]]
     //   }]
     // };
+    const self = this;
+    function seasonFormatter() {
+     return self.state.seasons.reduce((finalOutput, curr) => {
+     if (Number(curr.year) === Number(self.props.params.status) ) {
+       finalOutput.push({
+         name: curr.team_name,
+        //  color: 'rgba(223, 83, 83, .5)',
+         color:'rgba(' + (Math.floor(Math.random() * 256)) + ',' + (Math.floor(Math.random() * 256)) + ',' + (Math.floor(Math.random() * 256)) + ', .5)',
+         data: [[Number(curr.payroll), Number(curr.team_waa)]]
+       })
+     }
+      return finalOutput;
+     }, []);
+    }
 
-
+if(this.state.seasons.length > 0){
     var config = {
       chart: {
         type: 'scatter',
@@ -220,16 +239,6 @@ componentWillReceiveProps() {
         title: {
           text: 'WAA (Wins Above Average)'
         }
-      },
-      legend: {
-        layout: 'vertical',
-        align: 'left',
-        verticalAlign: 'top',
-        x: 100,
-        y: 70,
-        floating: true,
-        backgroundColor: (ReactHighcharts.theme && ReactHighcharts.theme.legendBackgroundColor) || '#FFFFFF',
-        borderWidth: 1
       },
       plotOptions: {
         scatter: {
@@ -255,21 +264,29 @@ componentWillReceiveProps() {
           }
         }
       },
-      series: [{
-        name: 'Yankees',
-        color: 'rgba(223, 83, 83, .5)',
-        data: [[161.2, 51.6]]
-
-      }, {
-        name: 'Indians',
-        color: 'rgba(119, 152, 191, .5)',
-        data: [[174.0, 65.6]]
-      }]
+      series: seasonFormatter()
+      // series: [{
+      //   name: 'Yankees',
+      //   color: 'rgba(223, 83, 83, .5)',
+      //   data: [[40000000, -2.4]]
+      //
+      // }, {
+      //   name: 'Indians',
+      //   color: 'rgba(119, 152, 191, .5)',
+      //   data: [[30000000, 10]]
+      // }]
     };
+
     return (
       <div>
         <ReactHighcharts config={config}/>
       </div>
     );
+  } else {
+    return (
+      <div className="loader">Loading...</div>
+    )
+  }
+
   }
 }

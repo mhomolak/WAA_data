@@ -29,14 +29,25 @@ router.get('/teams/:id', function(req, res, next) {
 });
 
 router.get('/years/:year', function(req, res, next) {
-  db.Seasons()
-  .where({
-    year: req.params.year
+  console.log('IN GET YEARS', req.params);
+
+  db.Teams()
+  .innerJoin('seasons', 'teams.id','seasons.team_id')
+   .then(function(results){
+    console.log('Results', results);
+    res.json(results);
   })
-  .then(years =>{
-    db.Teams()
-    res.send(years)
-  })
+  // db.Seasons()
+  // .where({
+  //   year: req.params.year
+  // })
+  // .then(years =>{
+  //   db.Teams()
+  //
+  //
+  //   console.log('YEARS', years);
+  //   res.send(years)
+  // })
 })
 
 

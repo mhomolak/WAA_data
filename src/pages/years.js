@@ -11,10 +11,10 @@ constructor(props) {
     seasons: []
   }
 }
-
+// change URL back to http://localhost:3000/ in DEVELOPMENT
 componentWillReceiveProps() {
   if (this.props.params.status) {
-    axios.get(`http://localhost:3000/api/years/${this.props.params.status}`)
+    axios.get(`/api/years/${this.props.params.status}`)
     .then((seasons) => {
       this.setState({
       seasons: seasons.data
@@ -24,7 +24,7 @@ componentWillReceiveProps() {
 }
 componentWillReceiveProps() {
   if (this.props.params.status) {
-    axios.get(`http://localhost:3000/api/years/${this.props.params.status}`)
+    axios.get(`/api/years/${this.props.params.status}`)
     .then((seasons) => {
       this.setState({
       seasons: seasons.data

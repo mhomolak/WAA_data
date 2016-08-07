@@ -11,7 +11,7 @@ constructor(props) {
     seasons: []
   }
 }
-// change URL back to http://localhost:3000/ in DEVELOPMENT
+// change URL back to http://localhost:3000/ in DEVELOPME
 componentWillReceiveProps() {
   if (this.props.params.status) {
     axios.get(`/api/years/${this.props.params.status}`)

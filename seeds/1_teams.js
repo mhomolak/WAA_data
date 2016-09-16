@@ -9,7 +9,6 @@ function teamNames(teams) {
   }
   return teamArr;
 }
-// console.log(teamNames(teams));
 
 exports.seed = function(knex, Promise) {
 
